@@ -1,6 +1,14 @@
-模型是通过LM Studio软件虚拟了一个本地服务器，然后再通过python程序run_deepseek.py进行交互推理的。LM Studio开启了json结构化输出模式。temperature=0.6（deepseek官方推荐0.5-0.7）
+模型是通过LM Studio软件虚拟了一个本地服务器，然后再通过python程序run_deepseek.py进行交互推理的。LM Studio开启了json结构化输出模式。**temperature=0.6（deepseek官方推荐0.5-0.7）**
+
+模型下载地址为：
+https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF
+
+因为LM Studio软件不支持safetensor格式，**只支持gguf格式**。而深度求索公司官方发布在hugging face上的模型格式大部分为safetensor格式，因此使用的是一位叫bartowski的开发者进行过格式转换后的版本。
+
+依据deepseek官方在hugging face上的说明，他们**不推荐在DeepSeek-R1模型及其蒸馏模型中使用system propmt**。
 
 json_schema为：
+"""
 {
   "properties": {
     "pH": {
@@ -52,24 +60,19 @@ json_schema为：
     }
   }
 }
+"""
 
-
-模型下载地址为：
-https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF
-
-因为LM Studio软件不支持safetensor格式，只支持gguf格式。而深度求索公司官方发布在hugging face上的模型格式大部分为safetensor格式，因此使用的是一位叫bartowski的开发者进行过格式转换后的版本。
-
-依据deepseek官方在hugging face上的说明，他们不推荐在DeepSeek-R1模型及其蒸馏模型中使用system propmt。
+# LLM结构化数据为json格式
 
 代码首先使用大模型生成了json结构，并且将生成的结构分成了四列储存：
-exptl_crystal_grow.pdbx_details_extracted.pH	
-exptl_crystal_grow.pdbx_details_extracted.temperature	
-exptl_crystal_grow.pdbx_details_extracted.method 
-exptl_crystal_grow.pdbx_details_extracted.reagents
+- exptl_crystal_grow.pdbx_details_extracted.pH	
+- exptl_crystal_grow.pdbx_details_extracted.temperature	
+- exptl_crystal_grow.pdbx_details_extracted.method 
+- exptl_crystal_grow.pdbx_details_extracted.reagents
 有些数据可能模型没有生成，代码会记为null
 
 本次生成的propmt为：
-propmt_1 = """
+"""
 用户会输入一段英文文本，该文本描述了某蛋白质的结晶条件。你需要按照下面的json schema，运用自己的理解，将这段文本转化为json格式。json格式化输出模式已经打开，模板正为下面的json_schema。注意下面的json schema的有些元素可能为空。
 
 {
@@ -127,11 +130,12 @@ propmt_1 = """
 用户输入的文本为：
 """
 
+# 二次验证
 随后，会使用大模型进行二次验证，模型修正后的结果会储存在这一列。pH temperature method reagents这四种参数储存在一起
 exptl_crystal_grow.pdbx_details_refined
 
 
-propmt_refine = """
+"""
 用户会输入一段英文文本，该文本描述了某蛋白质的结晶条件。
 该文本已经被按照下面的json schema转化为了json格式。但是转化后的json可能存在问题。
 例如json结构为全空、json结构不符合json格式要求、有些出现在json结构中的字段没有出现在原始文本中、有些出现在原始文本中的字段没有出现在json结构中。请你再检查一遍。
