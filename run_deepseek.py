@@ -159,6 +159,11 @@ def process_csv(input_csv_path, output_csv_path, is_check, is_refine):
     for row in df["exptl_crystal_grow.pdbx_details"]:
         # exptl_crystal_grow.pdbx_details可能为空
         if type(row) == float:
+            extracted_pH_lst.append('null')
+            extracted_temperature_lst.append('null')
+            extracted_method_lst.append('null')
+            extracted_reagents_lst.append('null')
+            refined_json_lst.append('null')
             continue
         json_structure = llm_process(row)
         output = json.loads(json_structure)
