@@ -2,17 +2,17 @@
 
 模型是通过LM Studio软件虚拟了一个本地服务器，然后再通过python程序*run_deepseek.py*进行交互推理。LM studio为一个大语言模型推理管理软件，会帮助用户管理硬件资源、提供简洁的超参数调试/system prompt设置/json结构化输出设置界面、本地部署对话界面、智能选择合适的运行架构。例如在本项目中，因为蒸馏的基底模型为Llama-8B模型，LM studio智能选择了CUDA Llama.cpp而不是普通的pytorch架构，加快了推理速度。LM Studio开启了json结构化输出模式，使用的json_schema见下文。
 
-LM studio的关于如何和本地虚拟出来的服务器进行交互的官方文档：https://lmstudio.ai/docs/api/endpoints/openai
+LM studio的关于[如何和本地虚拟出来的服务器进行交互的官方文档](https://lmstudio.ai/docs/api/endpoints/openai)
 
-模型下载地址为：https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF
+模型下载地址: https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF
 
 ## Tips
 
 - 因为LM Studio软件不支持safetensor格式，**只支持gguf格式**。而深度求索公司官方发布在hugging face上的模型格式大部分为safetensor格式，因此使用的是一位叫bartowski的开发者进行过格式转换后的版本。
 
-- 依据deepseek官方在hugging face上的说明，他们**不推荐在DeepSeek-R1模型及其蒸馏模型中使用system prompt。推荐的temperature为0.6，在本项目中均使用0.6作为temperature值**。具体请见链接https://huggingface.co/deepseek-ai/DeepSeek-R1的**Usage Recommendations**部分。因此json_schema被包含在每一个prompt中，这个会占用prompt的token数，可能会对性能有影响。并且**考虑到Llama为基底模型，中文并不是Llama的官方支持语言（见https://huggingface.co/meta-llama/Llama-3.1-8B#model-information），而prompt中大量使用中文，这可能会对性能有影响**。
+- 依据deepseek官方在hugging face上的说明，他们**不推荐在DeepSeek-R1模型及其蒸馏模型中使用system prompt。推荐的temperature为0.6，在本项目中均使用0.6作为temperature值**。具体请见[链接](https://huggingface.co/deepseek-ai/DeepSeek-R1)的**Usage Recommendations**部分。因此json_schema被包含在每一个prompt中，这个会占用prompt的token数，可能会对性能有影响。并且**考虑到Llama为基底模型，其[Model Card](https://huggingface.co/meta-llama/Llama-3.1-8B#model-information)表明中文并不是Llama的官方支持语言，而prompt中大量使用中文，这可能会对性能有影响**。
 
-- Unlike the example given in the LM Studio Docs https://lmstudio.ai/docs/api/structured-output, the json_schema mentioned below is set on the server level not on the post request /v1/chat/completions level.
+- Unlike the example given in the [LM Studio Docs](https://lmstudio.ai/docs/api/structured-output), the json_schema mentioned below is set on the server level not on the post request /v1/chat/completions level.
 
 ## Repo File Description
 
