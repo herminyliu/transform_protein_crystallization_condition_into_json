@@ -1,0 +1,2050 @@
+rcsb_id,entry.id,struct.title,exptl.method,exptl_crystal_grow.crystal_id,exptl_crystal_grow.method,exptl_crystal_grow.pH,exptl_crystal_grow.temp,exptl_crystal_grow.pdbx_details,exptl_crystal.density_Matthews,exptl_crystal.density_percent_sol,exptl_crystal_grow.pdbx_details_extracted.pH,exptl_crystal_grow.pdbx_details_extracted.temperature,exptl_crystal_grow.pdbx_details_extracted.method,exptl_crystal_grow.pdbx_details_extracted.reagents,exptl_crystal_grow.pdbx_details_refined
+7U5I,7U5I,Cryo-EM Structure of Mitochondrial Creatine Kinase,ELECTRON MICROSCOPY,,,,,,,,null,null,null,null,null
+2VP9,2VP9,Structural Studies of Nucleoside Analog and Feedback Inhibitor Binding to Drosophila Melanogaster Multisubstrate Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,3.07,53.06,6.5,0,,{},"{
+	""pH"":6.5
+	}
+																				"
+2JCS,2JCS,Active site mutant of dNK from D. melanogaster with dTTP bound,X-RAY DIFFRACTION,1.0,,6.5,,"0.12 M NAAC,0.1 M MES PH 6.5, 18% MPEG 2000",2.82,55.98,6.5,178.15,MICROBATCH,"{'0.12 M NAAC': '0.12 M', '0.1 M MES PH 6.5': '0.1 M', '18% MPEG 2000': '18%'}","{
+  ""pH"": 6.5,
+  ""temperature"": 178.15,
+  ""reagents"": {
+    ""0.12 M NAAC"": ""0.12 M"",
+    ""0.1 M MES PH 6.5"": ""0.1 M"",
+    ""18% MPEG 2000"": ""0.18""
+  },
+  ""method"": ""MICROBATCH""
+}
+																		"
+2VP2,2VP2,Structural Studies of Nucleoside Analog and Feedback Inhibitor Binding to Drosophila Melanogaster Multisubstrate Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,2.78,55.47,6.5,0,HANGING DROP,{},"{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+5D57,5D57,"In meso X-ray crystallography structure of diacylglycerol kinase, DgkA, at 100 K",X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,,277.0,"3-6 %(v/v) MPD, 0.1 M NaCl, 60 mM Mg(CH3COO)2 and 50 mM Na3C6H5O7, pH 5.6",2.89,57.49,5.6,0.0,HANGING DROP,"{'MPD': '3-6 %(v/v)', 'NaCl': '0.1 M', 'Mg(CH3COO)2': '60 mM', 'Na3C6H5O7': '50 mM', 'SODIUM ACETATE': '0.1 M'}","{
+  ""pH"": 5.6,
+  ""temperature"": 0.0,
+  ""reagents"": {
+    ""MPD"": ""3-6 %(v/v)"",
+    ""NaCl"": ""0.1 M"",
+    ""Mg(CH3COO)2"": ""60 mM"",
+    ""Na3C6H5O7"": ""50 mM"",
+    ""SODIUM ACETATE"": ""0.1 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+5XVU,5XVU,Crystal structure of the protein kinase CK2 catalytic domain from Plasmodium falciparum bound to ATP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,293.0,"0.2M Lithium Sulfate, 0.1M BIS-TRIS PH5.5, 25% w/v Polyethylene glycol 3350",2.88,57.3,5.5,277,HANGING DROP,"{'BIS-TRIS pH5.5': '0.1M', 'Lithium sulfate monohydrate': '0.2M', 'Polyethylene glycol 3350': '25% w/v'}","{
+  ""pH"": 5.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""BIS-TRIS pH5.5"": ""0.1M"",
+    ""Lithium sulfate monohydrate"": ""0.2M"",
+    ""Polyethylene glycol 3350"": ""25% w/v""
+  },
+  ""method"": ""HANGING DROP""
+}
+  												  				"
+3HQP,3HQP,"Crystal structure of Leishmania mexicana pyruvate kinase (LmPYK) in complex with ATP, Oxalate and fructose 2,6 bisphosphate",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.2,277.0,"10-16% PEG8000, 20mM triethanolamine-HCl, 50mM MgCl2, 100mM KCl, 10-15% glycerol, pH7.2, VAPOR DIFFUSION, HANGING DROP, temperature 277K",3.31,62.84,7.2,277,"VAPOR DIFFUSION, HANGING DROP","{'PEG8000': '10-16%', 'triethanolamine-HCl': '20mM', 'MgCl2': '50mM', 'KCl': '100mM', 'glycerol': '10-15%'}","{
+  ""pH"": 7.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG8000"": ""10-16%"",
+    ""triethanolamine-HCl"": ""20mM"",
+    ""MgCl2"": ""50mM"",
+    ""KCl"": ""100mM"",
+    ""glycerol"": ""10-15%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  "
+1V0B,1V0B,Crystal structure of the t198a mutant of pfpk5,X-RAY DIFFRACTION,1.0,,7.4,,pH 7.40,2.61,52.8,7.4,0.0,MICROBATCH,"{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+    ""pH"": 7.4,
+    ""temperature"": 0.0,
+    ""reagents"": {
+        ""HEPES"": ""0.1M"",
+        ""ammonium sulfate"": ""0.4M"",
+        ""PEG400"": ""20%""
+    },
+    ""method"": ""MICROBATCH""
+}
+																			"
+2BRX,2BRX,UMP KINASE FROM PYROCOCCUS FURIOSUS WITHOUT LIGANDS,X-RAY DIFFRACTION,1.0,,8.0,,"3.5 M SODIUM FORMATE, pH 8.00",2.59,52.15,8,0,HANGING DROP,{'SODIUM FORMATE': '3.5 M'},"{
+  ""pH"": 0,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""SODIUM FORMATE"": ""3.5 M""
+  },
+  ""method"": ""OK""
+}
+  								 									"
+2PHK,2PHK,THE CRYSTAL STRUCTURE OF A PHOSPHORYLASE KINASE PEPTIDE SUBSTRATE COMPLEX: KINASE SUBSTRATE RECOGNITION,X-RAY DIFFRACTION,1.0,,6.9,,pH 6.9,2.7,54.4,6.9,0,,{},"{
+  ""pH"": 6.9,
+  ""temperature"": 0,
+  ""reagents"": {},
+  ""method"": """"
+} "
+5T8O,5T8O,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to Imidazobenzoxepin Compound 3,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"0.3-0.9M ammonium sulphate, 0.05-0.1M sodium citrate, 0.7-1.0M Lithium sulphate",3.06,59.75,7.4,278,HANGING DROP,"{'ammonium sulfate': '0.3-0.9M', 'sodium citrate': '0.05-0.1M', 'lithium sulfate': '0.7-1.0M'}","{
+  ""pH"": 7.4,
+  ""temperature"": 278,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.3-0.9M"",
+    ""sodium citrate"": ""0.05-0.1M"",
+    ""lithium sulfate"": ""0.7-1.0M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+5T8P,5T8P,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to benzoxepin compound 2,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"0.3-0.9M ammonium sulphate, 0.05-0.1M sodium citrate, 0.7-1.0M Lithium sulphate",3.0,58.94,7.4,278.15,HANGING DROP,"{'ammonium sulfate': '0.3-0.9M', 'sodium citrate': '0.05-0.1M', 'lithium sulfate': '0.7-1.0M'}","{
+  ""pH"": 7.4,
+  ""temperature"": 278.15,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.3-0.9M"",
+    ""sodium citrate"": ""0.05-0.1M"",
+    ""lithium sulfate"": ""0.7-1.0M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  		   		        			"
+5T8Q,5T8Q,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to aryl pyrrole fragment 17,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"0.3-0.9M ammonium sulphate,
+0.05-0.1M sodium citrate, 
+0.7-1.0M Lithium sulphate",3.33,63.05,6.8,295,HANGING DROP,"{'ammonium sulfate': '0.3-0.9M', 'sodium citrate': '0.05-0.1M', 'lithium sulfate': '0.7-1.0M'}","{
+  ""pH"": 6.8,
+  ""temperature"": 295,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.3-0.9M"",
+    ""sodium citrate"": ""0.05-0.1M"",
+    ""lithium sulfate"": ""0.7-1.0M""
+  },
+  ""method"": ""HANGING DROP""
+}
+								    								"
+7M0M,7M0M,HPK1 IN COMPLEX WITH COMPOUND 1,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,,293.0,"20 mM Tris pH 8.0 , 150 mM NaCl , 5% Glycerol , 2 mM DTT",2.58,52.33,8.0,293,HANGING DROP,"{'Tris': '20 mM', 'NaCl': '150 mM', 'Glycerol': '5%', 'DTT': '2 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Tris"": ""20 mM"",
+    ""NaCl"": ""150 mM"",
+    ""Glycerol"": ""5%"",
+    ""DTT"": ""2 mM""
+  },
+  ""method"": ""HANGING DROP""
+}
+    												   	"
+1.00E+90,1.00E+90,"Structure determinants of phosphoinositide 3-kinase inhibition by wortmannin, LY294002, quercetin, myricetin and staurosporine",X-RAY DIFFRACTION,1.0,,7.25,,"14% PEG 4000, 0.2 M LI2SO4, 0.1 M TRIS PH 7.25",2.851,56.9,7.25,298,"VAPOR DIFFUSION, HANGING DROP",null,"{
+  ""pH"": 7.25,
+  ""temperature"": 298,
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  			 					    	 			"
+2BTY,2BTY,Acetylglutamate kinase from Thermotoga maritima complexed with its inhibitor arginine,X-RAY DIFFRACTION,1.0,,4.6,,"15% POLYETHYLENE GLYCOL 4K, SODIUM ACETATE 50 MM PH 4.6, AMMONIUM SULFATE 75 MM",3.2,61.2,4.6,277,MICROBATCH,"{'POLYETHYLENE GLYCOL 4K': '15%', 'SODIUM ACETATE': '50 mM', 'AMMONIUM SULFATE': '75 MM'}","{
+  ""pH"": 4.6,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""POLYETHYLENE GLYCOL 4K"": ""15%"",
+    ""SODIUM ACETATE"": ""50 mM"",
+    ""AMMONIUM SULFATE"": ""75 MM""
+  },
+  ""method"": ""MICROBATCH""
+}
+  																		"
+4BRR,4BRR,Crystal structure of the integral membrane diacylglycerol kinase - delta 7.79,X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,5.6,277.0,"4-6 %(V/V) 2-METHYL-2, 4-PENTANEDIOL (MPD), 0.1 M SODIUM CHLORIDE, 60 MM MAGNESIUM ACETATE, 0.1 M SODIUM CITRATE/HCL PH 5.6. CRYSTALLIZED USING THE IN MESO (LIPIDIC CUBIC PHASE) METHOD AT 4 DEGREES CELCIUS WITH THE 7.9 MONOACYLGLYCEROL (7.9 MAG) AS THE HOSTING LIPID.",3.9,68.47,5.6,4,IN MESO (LIPIDIC CUBIC PHASE) METHOD,"{'0.1 M SODIUM CHLORIDE': '10%', 'MPD': '4-6 % (V/V)', '60 MM MAGNESIUM ACETATE': '60 MM', '0.1 M SODIUM CITRATE/HCL': '10%', '7.9 MAG': '7.9 MONOACYLGLYCEROL'}","{
+    ""pH"": 5.6,
+    ""temperature"": 4,
+    ""reagents"": {
+      ""0.1 M SODIUM CHLORIDE"": ""10%"",
+      ""MPD"": ""4-6 % (V/V)"",
+      ""60 MM MAGNESIUM ACETATE"": ""60 MM"",
+      ""0.1 M SODIUM CITRATE/HCL"": ""10%"",
+      ""7.9 MAG"": ""7.9 MONOACYLGLYCEROL""
+    },
+    ""method"": ""IN MESO (LIPIDIC CUBIC PHASE) METHOD""
+  }
+  																		"
+4G3F,4G3F,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to a 2-(aminothiazoly)phenol (cmp2),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.5,277.0,"2 uL plus 2 uL well solution containing 1 mm cmp2, 100 mM bis-TRIS pH 6.5, 100 mM sodium chloride, 20% PEG 400, VAPOR DIFFUSION, SITTING DROP, temperature 277K",2.22,44.68,6.5,277,"VAPOR DIFFUSION, HANGING DROP","{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+  ""pH"": 6.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+4G3G,4G3G,Crystal structure of murine NF-kappaB inducing kinase (NIK) V408L bound to a 2-(aminothiazolyl)phenol (cmp3),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,277.0,"0.2 uL protein plus 0.2 uL of 0.5 mM Cmp3, 100 mM HEPES pH 7.0, 0.01 M zinc chloride, 20% PEG 6000, VAPOR DIFFUSION, SITTING DROP, temperature 277K",2.08,40.99,7.0,277,"VAPOR DIFFUSION, SITTING DROP","{'Zinc chloride': '0.01 M', 'HEPES': '100 mM', 'Cmp3': '0.5 mM'}","{
+  ""pH"": 7.0,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Zinc chloride"": ""0.01 M"",
+    ""HEPES"": ""100 mM"",
+    ""Cmp3"": ""0.5 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  "
+6KHD,6KHD,Crystal structure of CLK1 in complex with CX-4945,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,293.0,"8% (v/v) Tacsimate, 18% (w/v) PEG 3350, 3% (v/v) Glycerol",1.69,27.41,7.4,277,HANGING DROP,"{'Tacsimate': '8% (v/v)', 'PEG 3350': '18% (w/v)', 'Glycerol': '3% (v/v)'}","{
+  ""pH"": 7.4,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Tacsimate"": ""8% (v/v)"",
+    ""PEG 3350"": ""18% (w/v)"",
+    ""Glycerol"": ""3% (w/v)""
+  },
+  ""method"": ""HANGING DROP""
+}
+																			"
+6RJ4,6RJ4,"Molybdenum storage protein - P6422, ADP",X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,8.5,293.0,"1.2 M ammonium sulfate, 0.1 M Tris-HCl, pH 8.5",2.81,56.22,8.5,0.0,HANGING DROP,null,"{
+  ""pH"": 8.5,
+  ""temperature"": 0.0,
+  ""method"": ""HANGING DROP""
+}
+																				"
+4G3C,4G3C,Crystal structure of apo murine Nf-kappaB inducing kinase (NIK),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,276.0,"2uL protein with 2uL well solution of 0.5 M ammonium sulfate, 0.9 M lithium sulfate,0.1M sodium citrate tribasic dihydrate , pH 6.2, VAPOR DIFFUSION, HANGING DROP, temperature 276K",2.94,58.12,6.2,276,"VAPOR DIFFUSION, HANGING DROP","{'HEPES': None, 'ammonium sulfate': '0.5M', 'lithium sulfate': '0.9M', 'sodium citrate tribasic dihydrate': '0.1M', 'Tris/HCl': None}","{
+  ""pH"": 6.2,
+  ""temperature"": 276,
+  ""reagents"": {
+    ""HEPES"": null,
+    ""ammonium sulfate"": ""0.5M"",
+    ""lithium sulfate"": ""0.9M"",
+    ""sodium citrate tribasic dihydrate"": ""0.1M"",
+    ""Tris/HCl"": null
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+3LL5,3LL5,Crystal structure of T. acidophilum isopentenyl phosphate kinase product complex,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.0,274.0,"0.1 M PCB buffer (2:1:2 molar ratio of sodium propionate, sodium cacodylate, Bis-Tris propane, pH 6.0 containing 25% PEG1500, VAPOR DIFFUSION, SITTING DROP, temperature 274K",2.21,44.28,6.0,274,"VAPOR DIFFUSION, SITTING DROP","{'PCB buffer (2:1:2 molar ratio of sodium propionate, sodium cacodylate, Bis-Tris propane)': {'sodium propionate': '0.1M', 'sodium cacodylate': '0.2M', 'bis-tris propane': '0.3M'}, '25% PEG1500': '25%'}","{
+  ""pH"": 6.0,
+  ""temperature"": 274,
+  ""reagents"": {
+    ""PCB buffer (2:1:2 molar ratio of sodium propionate, sodium cacodylate, Bis-Tris propane)"": {
+      ""sodium propionate"": ""0.1M"",
+      ""sodium cacodylate"": ""0.2M"",
+      ""bis-tris propane"": ""0.3M""
+    },
+    ""25% PEG1500"": ""25%""
+  }
+  ,
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+"
+4JZ8,4JZ8,Carbamate kinase from Giardia lamblia bound to citric acid,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,295.0,"0.4 M ammonium citrate dibasic, pH 5.0, 21% PEG3350, crystal soaked in 2 mM inhibitor disulfiram (inhibitor did not bind but unit cell dimension b shrank by 6%), VAPOR DIFFUSION, HANGING DROP, temperature 295K",2.17,43.39,5.0,295,"VAPOR DIFFUSION, HANGING DROP","{'0.4 M ammonium citrate dibasic': '0.4 M', 'PEG 3350': '21%', '2 mM inhibitor disulfiram': 'inhibitor did not bind'}","{
+  ""pH"": 5.0,
+  ""temperature"": 295,
+  ""reagents"": {
+    ""0.4 M ammonium citrate dibasic"": ""0.4 M"",
+    ""PEG 3350"": ""21%"",
+    ""2 mM inhibitor disulfiram"": ""inhibitor did not bind""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																		"
+4JZ9,4JZ9,Carbamate kinase from Giardia lamblia bound to citric acid,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,295.0,"0.4 M ammonium citrate dibasic, pH 5.0, 21% PEG3350, VAPOR DIFFUSION, HANGING DROP, temperature 295K",2.33,47.27,5.0,295,"VAPOR DIFFUSION, HANGING DROP","{'ammonium citrate dibasic': '0.4 M', 'PEG 3350': '21% (w/v)'}","{
+  ""pH"": 5.0,
+  ""temperature"": 295,
+  ""reagents"": {
+    ""ammonium citrate dibasic"": ""0.4 M"",
+    ""PEG 3350"": ""21% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+              						"
+6MYN,6MYN,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to inhibitor R7,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"100 mM sodium citrate tribasic dihydrate (pH 6.2), 0.5 M ammonium sulfate, 0.9 M lithium sulfate",3.3,62.68,6.2,298,HANGING DROP,"{'sodium citrate tribasic dihydrate (100 mM pH 6.2)': '0.1M', 'ammonium sulfate': '0.5M', 'lithium sulfate': '0.9M'}","{
+  ""pH"": 6.2,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""sodium citrate tribasic dihydrate (100 mM pH 6.2)"": ""0.1M"",
+    ""ammonium sulfate"": ""0.5M"",
+    ""lithium sulfate"": ""0.9M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  												  				"
+2VQS,2VQS,Structural Studies of Nucleoside Analog and Feedback Inhibitor Binding to Drosophila Melanogaster Multisubstrate Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,3.08,51.08,6.5,0,,{},"{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																		"
+1FWL,1FWL,CRYSTAL STRUCTURE OF HOMOSERINE KINASE,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,293.0,"PEG4000, sodium acetate, pH 8.0, VAPOR DIFFUSION, HANGING DROP, temperature 293K",3.25,62.2,8.0,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG4000': None, 'sodium acetate': '1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG4000"": null,
+    ""sodium acetate"": ""1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+6CD6,6CD6,Crystal Structure of the Human CAMKK1A in complex with GSK650394,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,280.0,"33.75% PEG2000 MME, 0.15 M potassium thiocyanate, 0.1 M CHC buffer, pH 7.0, cryoprotectant: 30% polyethylene glycol",2.3,46.55,7.0,293,HANGING DROP,"{'PEG2000 MME': '33.75%', 'potassium thiocyanate': '0.15 M', 'CHC buffer': '0.1 M', 'polyethylene glycol': '30% (w/v)'}","{
+  ""pH"": 7.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG2000 MME"": ""33.75%"",
+    ""potassium thiocyanate"": ""0.15 M"",
+    ""CHC buffer"": ""0.1 M"",
+    ""polyethylene glycol"": ""30% (w/v)""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+3LKK,3LKK,Crystal structure of the isopentenyl phosphate kinase substrate complex,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,274.0,"0.1 M MIB buffer (2:3:3 molar ratio of sodium malonate, imidazole, boric acid), pH 7.0, 25% PEG1500, VAPOR DIFFUSION, SITTING DROP, temperature 274K",2.18,43.53,7.0,274,"VAPOR DIFFUSION, SITTING DROP","{'MIB buffer (2:3:3 molar ratio of sodium malonate, imidazole, boric acid)': '0.1 M', 'PEG1500': '25%'}","{
+    ""pH"": 7.0,
+    ""temperature"": 274,
+    ""reagents"": {
+        ""MIB buffer (2:3:3 molar ratio of sodium malonate, imidazole, boric acid)"": ""0.1 M"",
+        ""PEG1500"": ""25%""
+    },
+    ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  																		"
+5WNL,5WNL,Crystal structure of murine receptor-interacting protein 4 (Ripk4) D143N bound to staurosporine,X-RAY DIFFRACTION,1.0,MICROBATCH,,292.0,"0.1M HEPES pH 7.5, 200 mM magnesium chloride, 10% isopropanol, 15% ethylene glycol, and 10% PEG 4000",3.6,65.87,7.5,277,HANGING DROP,"{'HEPES': '0.1M', 'magnesium chloride': '200 mM', 'isopropanol': '10%', 'ethylene glycol': '15%', 'PEG 4000': '10%'}","{
+  ""pH"": 7.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""magnesium chloride"": ""200 mM"",
+    ""isopropanol"": ""10%"",
+    ""ethylene glycol"": ""15%"",
+    ""PEG 4000"": ""10%""
+  },
+  ""method"": ""HANGING DROP""
+}
+								       					"
+1E7V,1E7V,"Structure determinants of phosphoinositide 3-kinase inhibition by wortmannin, LY294002, quercetin, myricetin and staurosporine",X-RAY DIFFRACTION,1.0,,7.25,,"14% PEG 4000, 0.2 M LI2SO4, 0.1 M TRIS PH 7.25",2.788,55.92,7.25,298,HANGING DROP,"{'PEG 4000': '14%', 'Li2SO4': '0.2M', 'TRIS pH 7.25': '0.1M'}","{
+  ""pH"": 7.25,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""PEG 4000"": ""14%"",
+    ""Li2SO4"": ""0.2M"",
+    ""TRIS pH 7.25"": ""0.1M""
+  },
+  ""method"": ""HANGING DROP""
+}
+																				"
+7L25,7L25,HPK1 IN COMPLEX WITH COMPOUND 18,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,,293.0,NO DISCLOSED,2.43,49.49,7.4,278,MICROBATCH,"{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+  ""pH"": 7.4,
+  ""temperature"": 278,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""MICROBATCH""
+}
+  						  								  "
+1I5A,1I5A,STRUCTURE OF CHEA DOMAIN P4 IN COMPLEX WITH ADPCP AND MANGANESE,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,293.0,"PEG 8000 33-36% Ammonium acetate 0.8 M sodium acetate 0.085 M  pH 4.5. VAPOR DIFFUSION, HANGING DROP at 293 K",2.05,39.9,4.5,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '33-36%', 'Ammonium acetate': '0.8 M', 'sodium acetate': '0.085 M'}","{
+  ""pH"": 4.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 8000"": ""33-36%"",
+    ""Ammonium acetate"": ""0.8 M"",
+    ""sodium acetate"": ""0.085 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  					  											"
+3UIM,3UIM,Structural basis for the impact of phosphorylation on plant receptor-like kinase BAK1 activation,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,291.0,"PEG3350, sodium citrate, ammonium sulfate, HEPES , pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 291K",2.52,51.19,7.5,291,"VAPOR DIFFUSION, HANGING DROP","{'PEG3350': '10% (w/v)', 'sodium citrate': '50 mM', 'ammonium sulfate': '2M', 'HEPES': '0.1M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 291,
+  ""reagents"": {
+    ""PEG3350"": ""10% (w/v)"",
+    ""sodium citrate"": ""50 mM"",
+    ""ammonium sulfate"": ""2M"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+								   						   "
+5E4H,5E4H,Crystal Structure of Apoenzyme Alpha-kinase Domain of Myosin-II Heavy Chain Kinase A,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",9.0,277.15,"PEG8000, PEG300, glycerol, magnesium chloride, Tris-HCl",2.62,53.07,7.4,277,HANGING DROP,"{'Tris-HCl': '10 mM', 'glycerol': '50% (w/w)', 'magnesium chloride': '1 M', 'PEG8000': '8% (w/v)'}","{
+  ""pH"": 7.4,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Tris-HCl"": ""10 mM"",
+    ""glycerol"": ""50% (w/w)"",
+    ""magnesium chloride"": ""1 M"",
+    ""PEG8000"": ""8% (w/v)""
+  },
+  ""method"": ""HANGING DROP""
+}
+  		   													"
+6G33,6G33,Crystal structure of CLK1 in complex with 5-iodotubercidin,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,277.15,"20% 1,2-propanediol, 5% glycerol and 0.1 M NaKPO4",2.47,50.14,7,277,MICROBATCH,"{'1,2-propanoli': '20%', 'glycerol': '5%', 'NaKPO4': '0.1 M'}","{
+  ""pH"": 7,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""1,2-propanoli"": ""20%"",
+    ""glycerol"": ""5%"",
+    ""NaKPO4"": ""0.1 M""
+  },
+  ""method"": ""MICROBATCH""
+}
+"
+2VPP,2VPP,Drosophila melanogaster deoxyribonucleoside kinase successfully activates gemcitabine in transduced cancer cell lines,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,2.68,48.0,6.5,0,,{},"{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {},
+  ""method"": """"
+}
+							     					"
+6G4Y,6G4Y,Crystal structure of murine NF-kappaB inducing kinase (NIK) in complex with compound 1a,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"0.3-0.9M ammonium sulphate,
+0.05-0.1M sodium citrate,
+0.7-1.0M lithium sulphate",3.06,59.81,6.5,295,HANGING DROP,"{'ammonium sulfate': '0.3-0.9M', 'sodium citrate': '0.05-0.1M', 'lithium sulfate': '0.7-1.0M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 295,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.3-0.9M"",
+    ""sodium citrate"": ""0.05-0.1M"",
+    ""lithium sulfate"": ""0.7-1.0M""
+  },
+  ""method"": ""HANGING DROP""
+}
+ 																			"
+6G4Z,6G4Z,Crystal structure of murine NF-kappaB inducing kinase (NIK) in complex with compound 2f,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"0.3-0.9M ammonium sulphate, 
+0.05-0.1M sodium citrate, 
+0.7-1.0M Lithium sulphate",3.17,61.14,7,298,HANGING DROP,"{'ammonium sulfate': '0.3-0.9M', 'sodium citrate': '0.05-0.1M', 'lithium sulfate': '0.7-1.0M'}","{
+  ""pH"": 7,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.3-0.9M"",
+    ""sodium citrate"": ""0.05-0.1M"",
+    ""lithium sulfate"": ""0.7-0.8M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  			  													"
+1OE0,1OE0,CRYSTAL STRUCTURE OF DROSOPHILA DEOXYRIBONUCLEOSIDE KINASE IN COMPLEX WITH DTTP,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.50,2.78,55.8,6.5,0.0,HANGING DROP,{},"{
+  ""pH"": 6.50,
+  ""temperature"": 0.0,
+  ""reagents"": {},
+  ""method"": ""HANGING DROP""
+}
+"
+6CQD,6CQD,Crystal structure of HPK1 in complex with ATP analogue (AMPPNP),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,292.0,"0.1 M HEPES, pH 7.5, 12% PEG8000",2.38,48.24,7.5,298,HANGING DROP,"{'HEPES': '0.1M', 'PEG8000': '12%'}","{
+  ""pH"": 7.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""PEG8000"": ""12%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  												  				"
+6NFY,6NFY,"Crystal structure of nonphosphorylated, HPK1 kinase domain in complex with sunitinib in the inactive state.",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.5,294.15,"300 nl protein (16 mg/ml) plus 300 nl reservoir solution (4.19 M NaCl, 0.1 M HEPES, pH 6.5) and incubated at 25 C",3.4,63.82,6.5,25,"VAPOR DIFFUSION, HANGING DROP","{'protein solution': '16 mg/ml', 'reservoir solution': '4.19 M NaCl, 0.1 M HEPES'}","{
+  ""pH"": 6.5,
+  ""temperature"": 25,
+  ""reagents"": {
+    ""protein solution"": ""16 mg/ml"",
+    ""reservoir solution"": ""4.19 M NaCl, 0.1 M HEPES""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+6NFZ,6NFZ,Crystal structure of diphosphorylated HPK1 kinase domain in complex with sunitinib in the active state.,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,286.15,"0.2M ammonium fluoride, 20% PEG 3350, 100nl well + 100nl protein @ 22mg/ml",2.45,49.8,7,277,MICROBATCH,"{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+  ""pH"": 7,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""MICROBATCH""
+}
+																			"
+6NG0,6NG0,"Crystal structure of HPK1 kinase domain T165E,S171E phosphomimetic mutant in complex with sunitinib in the inactive state.",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,286.15,"200 nl protein (15 mg/ml) plus 300 nl reservoir solution (0.1 M tris, pH 8.0, 17.5 % 1,6-Hexanediol, 10 mM magnesium sulfate, 24 mM Barium acetate)",2.58,52.41,8.0,293,HANGING DROP,"{'protein solution': '15 mg/ml', 'reservoir solution': '0.1 M tris (pH 8.0), 17.5% 1,6-Hexanediol, 10 mM magnesium sulfate, 24 mM Barium acetate'}","{
+  												  				""pH"": 8.0,
+  												""temperature"": 293,
+  												""reagents"": {
+  											 		""protein solution"": ""15 mg/ml"",
+  											 		""reservoir solution"": ""0.1 M tris (pH 8.0), 17.5 % 1,6-Hexanediol, 10 mM magnesium sulfate, 24 mM Barium acetate""
+  												},
+  												""method"": ""HANGING DROP""
+  												}
+																   	"
+1U0T,1U0T,Crystal structure of Mycobacterium tuberculosis NAD kinase,X-RAY DIFFRACTION,1.0,,6.0,298.0,"PEG 4000, MES buffer, pH 6.0, VAPOR DIFFUSION, HANGING DROP, temperature 298K, pH 6.00",2.46,49.98,6.0,298,"VAPOR DIFFUSION, HANGING DROP",null,"{
+  ""pH"": 6.0,
+  ""temperature"": 298,
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+5IG1,5IG1,Crystal structure of S. rosetta CaMKII kinase domain,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.9,295.0,"1.8 M sodium phosphate monobasic monohydrate, potassium phosphate dibasic pH 6.9",3.98,69.13,6.9,0,HANGING DROP,"{'sodium phosphate monobasic monohydrate': '1.8 M', 'potassium phosphate dibasic': '1 M'}","{
+  ""pH"": 6.9,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""sodium phosphate monobasic monohydrate"": ""1.8 M"",
+    ""potassium phosphate dibasic"": ""1 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  					   										"
+1K47,1K47,Crystal Structure of the Streptococcus pneumoniae Phosphomevalonate Kinase (PMK),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,298.0,"sodium dihydrogen phosphate, potassium dihydrogen phosphate, HEPES, ATP, pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",3.14,60.5,7.5,298,"VAPOR DIFFUSION, HANGING DROP","{'sodium diphosphate': '0.1M', 'potassium dihydrogen phosphate': '0.1M', 'HEPES': '0.1M', 'ATP': '5 mM'}","{
+  ""pH"": 7.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""sodium diphosphate"": ""0.1M"",
+    ""potassium dihydrogen phosphate"": ""0.1M"",
+    ""HEPES"": ""0.1M"",
+    ""ATP"": ""5 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+4UYO,4UYO,Structure of delta7-DgkA in 7.9 MAG by serial femtosecond crystatallography to 2.18 angstrom resolution,X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,5.6,293.0,"0.2 %(V/V) 2-METHYL-2, 4-PENTANEDIOL (MPD), 0.1 M SODIUM CHLORIDE, 0.1 M SODIUM CITRATE/HCL PH 5.6. CRYSTALLIZED USING THE IN MESO (LIPID CUBIC PHASE) METHOD AT 20 DEGREES CELCIUS WITH THE 7.9 MONOACYLGLYCEROL (7.9 MAG) AS THE HOSTING LIPID.CRYSTALLIZATION WAS SET UP BY INCUBATING 20 MICROLITERS OF LIPID CUBIC PHASE WITH 400 MICROLITERS OF PRECIPITANT SOLUTION IN COUPLED SYRINGES.",2.93,58.04,5.6,20,IN MESO (LIPID CUBIC PHASE) METHOD,"{'2-METHYL-2,4-PENTANEDIOL (MPD)': '0.2 %(V/V)', 'SODIUM CHLORIDE': '0.1 M', 'SODIUM CITRATE/HCL PH 5.6': '0.1 M'}","{
+  ""pH"":5.6,
+  ""temperature"":20,
+  ""reagents"": {
+    ""2-METHYL-2,4-PENTANEDIOL (MPD)"": ""0.2 %(V/V)"",
+    ""SODIUM CHLORIDE"": ""0.1 M"",
+    ""SODIUM CITRATE/HCL PH 5.6"": ""0.1 M""
+  },
+  ""method"": ""IN MESO (LIPID CUBIC PHASE) METHOD""
+}
+  				  								 			"
+8XN7,8XN7,"Crystal structure of HPK1 kinase domain T165E,S171E phosphomimetic mutant in complex with compound 9f",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,291.0,"0.1 M sodium chloride, 0.1 M Tris, 
+8%(w/v)PEG 20000, pH=8.0",2.45,49.72,8.0,277,"VAPOR DIFFUSION, HANGING DROP","{'sodium chloride': '0.1M', 'Tris': '0.1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""sodium chloride"": ""0.1M"",
+    ""Tris"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+1I5C,1I5C,STRUCTURE OF CHEA DOMAIN P4 IN COMPLEX WITH ADP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,293.0,"PEG 8000 33-36% Ammonium acetate 0.8 M sodium acetate 0.085 M  pH 5.0. VAPOR DIFFUSION, HANGING DROP at 293 K",2.17,43.31,5.0,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '33-36%', 'Ammonium acetate': '0.8 M', 'sodium acetate': '0.085 M'}","{
+  ""pH"": 5.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG8000"": ""33-36%"",
+    ""Ammonium acetate"": ""0.8 M"",
+    ""sodium acetate"": ""0.085 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  		   													"
+1OB3,1OB3,Structure of P. falciparum PfPK5,X-RAY DIFFRACTION,1.0,,7.5,,"100MM HEPES SODIUM SALT PH 7.5, 10MM MGCL2, PEG 8K (8-16%), ISOPROPANOL (2-8%)",2.3,45.7,7.5,277,HANGING DROP,"{'HEPES': '100 mM', 'MgCl2': '10 mM', 'PEG 8K': '8-16%', 'isopropanol': '2-8%'}","{
+  ""pH"": 7.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""100 mM"",
+    ""MgCl2"": ""10 mM"",
+    ""PEG 8K"": ""8-16%"",
+    ""isopropanol"": ""2-8%""
+  },
+  ""method"": ""HANGING DROP""
+}
+    					   					  	"
+1V0O,1V0O,Structure of P. falciparum PfPK5-Indirubin-5-sulphonate ligand complex,X-RAY DIFFRACTION,1.0,,7.4,,pH 7.40,2.56,51.99,7.4,298,HANGING DROP,{},"{
+  ""pH"":7.4,
+  ""temperature"":298,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""HANGING DROP""
+}
+								       			"
+3CWC,3CWC,Crystal structure of putative glycerate kinase 2 from Salmonella typhimurium LT2,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",4.2,287.0,"10% PEG 3000, 0.1 M Phosphate-citrate buffer, 0.2 M Sodium chloride, pH 4.2, VAPOR DIFFUSION, HANGING DROP, temperature 287K",2.35,47.73,4.2,287,"VAPOR DIFFUSION, HANGING DROP","{'PEG 3000': '10%', 'Phosphate-citrate buffer': '0.1 M', 'Sodium chloride': '0.2 M'}","{
+  ""pH"": 4.2,
+  ""temperature"": 287,
+  ""reagents"": {
+    ""PEG 3000"": ""10%"",
+    ""Phosphate-citrate buffer"": ""0.1 M"",
+    ""Sodium chloride"": ""0.2 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+    																"
+3E3P,3E3P,Glycogen synthase kinase from Leishmania major,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,7.0,298.0,"70% Tacsimate, 0.1 M Bis Tris propane, pH 7.0, vapor diffusion, temperature 298K",2.7,54.9,7.0,298,Vapor Diffusion,"{'Bis-Tris Propane': '10 mM', 'Tacsimate': '70%'}","{
+  ""pH"": 7.0,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""Bis-Tris Propane"": ""10 mM"",
+    ""Tacsimate"": ""70%""
+  },
+  ""method"": ""Vapor Diffusion""
+}
+																			"
+4Q1T,4Q1T,Crystal structure of a glutamate 5-kinase from Burkholderia thailandensis,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.5,289.0,"ButhA.00483.a.A1.PW33346 at 40 mg/mL against PACT screen condition F7, 0.2 M NaOAc, 0.1 M BisTris Propane pH 6.5, 20% PEG 3350 supplemented with 20% ethylene glycol as cryo-protectant, crystal tracking ID 226003f7, unique puck ID gzd6-4, VAPOR DIFFUSION, SITTING DROP, temperature 289K",2.04,39.69,6.5,289,"VAPOR DIFFUSION, SITTING DROP","{'BisTris Propane': '0.1 M', 'PEG 3350': '20%', 'NaOAc': '0.2 M', 'ethylene glycol': '20%'}","{
+  ""pH"": 6.5,
+  ""temperature"": 289,
+  ""reagents"": {
+    ""BisTris Propane"": ""0.1 M"",
+    ""PEG 3350"": ""20%"",
+    ""NaOAc"": ""0.2 M"",
+    ""ethylene glycol"": ""20%""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+																				"
+3L2E,3L2E,"Glycocyamine kinase, alpha-beta heterodimer from marine worm Namalycastis sp.",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,298.0,"22% polyethylene glycol 3350, 0.2M sodium nitrate, 0.1M Tris HCl, pH 8, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.22,44.52,8,298,"VAPOR DIFFUSION, HANGING DROP","{'polyethylene glycol 3350': '22%', 'sodium nitrate': '0.2M', 'Tris HCl': '0.1M'}","{
+  ""pH"": 8,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""polyethylene glycol 3350"": ""22%"",
+    ""sodium nitrate"": ""0.2M"",
+    ""Tris HCl"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+								    								"
+1E8W,1E8W,"Structure determinants of phosphoinositide 3-kinase inhibition by wortmannin, LY294002, quercetin, myricetin and staurosporine",X-RAY DIFFRACTION,1.0,,7.25,,"14% PEG 4000, 0.2 M LI2SO4, 0.1 M TRIS PH 7.25",2.829,54.85,7.25,5713,HANGING DROP,"{'PEG 4000': '14%', 'Li2SO4': '0.2M', 'TRIS/CL': '0.1M'}","{
+  ""pH"": 7.25,
+  ""temperature"": 5713,
+  ""reagents"": {
+    ""PEG 4000"": ""14%"",
+    ""Li2SO4"": ""0.2M"",
+    ""TRIS/CL"": ""0.1M""
+  },
+  ""method"": ""HANGING DROP""
+}
+"
+2E9Y,2E9Y,Crystal structure of project APE1968 from Aeropyrum pernix K1,X-RAY DIFFRACTION,1.0,Microbach,5.65,291.0,"16.5% (w/v) PEG 20K, 0.1M Citr., pH 5.65, Microbach, temperature 291K",2.32,47.08,5.65,291,MICROBATCH,{'PEG 20K': '16.5% (w/v)'},"{
+  ""pH"": 5.65,
+  ""temperature"": 291,
+  ""reagents"": {
+    ""PEG 20K"": ""16.5% (w/v)""
+  },
+  ""method"": ""MICROBATCH""
+}
+  												  				"
+1CJA,1CJA,"ACTIN-FRAGMIN KINASE, CATALYTIC DOMAIN FROM PHYSARUM POLYCEPHALUM",X-RAY DIFFRACTION,1.0,,6.0,,"2.0 M LI2SO4, 0.1 M MES, PH 6.0",3.59,68.0,6.0,0,HANGING DROP,"{'LI2SO4': '2.0 M', 'MES': '0.1 M'}","{
+  ""pH"": 6.0,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""LI2SO4"": ""2.0 M"",
+    ""MES"": ""0.1 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  				  	 	 	 	 	 	 "
+8FH4,8FH4,"Crystal structure of HPK1 kinase domain T165E,S171E phosphomimetic mutant in complex with 3-[6-chloro-4-(9-methyl-1-oxa-4,9-diazaspiro[5.5]undec-4-yl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl]benzonitrile",X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,,286.15,"15 mg/mL protein + reservoir (0.1 M Tris, pH 8.0, 17.5% 1,6-hexanediol, 10 mM magnesium sulfate, 24 mM barium acetate)",2.2,44.18,8.0,293,HANGING DROP,"{'Tris': '0.1M', '1,6-hexanediol': '17.5%', 'magnesium sulfate': '10 mM', 'barium acetate': '24 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Tris"": ""0.1M"",
+    ""1,6-hexanediol"": ""17.5%"",
+    ""magnesium sulfate"": ""10 mM"",
+    ""barium acetate"": ""24 mM""
+  },
+  ""method"": ""HANGING DROP""
+}
+																				"
+1YS3,1YS3,Crystal Structure of the ATP binding domain of PrrB from Mycobacterium Tuberculosis,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,292.0,"PEG200DME, Ca acetate, Bis Tris Propane, pH 8.0, VAPOR DIFFUSION, HANGING DROP, temperature 292K",2.5,51.0,8.0,292,"VAPOR DIFFUSION, HANGING DROP","{'Bis-Tris Propane': '10 mM', 'Ca Acetate': '5 mM', 'PEG200DME': '30% (w/v)'}","{
+  ""pH"": 8.0,
+  ""temperature"": 292,
+  ""reagents"": {
+    ""Bis-Tris Propane"": ""10 mM"",
+    ""Ca Acetate"": ""5 mM"",
+    ""PEG200DME"": ""30% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																				"
+6MI6,6MI6,STRUCTURE OF CHEA DOMAIN P4 IN COMPLEX WITH AN ADP ANALOG,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.5,290.0,"50 mM Citrate pH 5.5, 2 M Ammonium Sulfate",3.22,61.82,5.5,298,"VAPOR DIFFUSION, HANGING DROP",null,"{
+    ""pH"": 5.5,
+    ""temperature"": 298,
+    ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+		"
+2J5T,2J5T,Glutamate 5-kinase from Escherichia coli complexed with glutamate,X-RAY DIFFRACTION,1.0,,6.5,,"1.45 M MGSO4, 20 MM CACL2, 0.1 M MES PH 6.5.",2.77,55.2,6.5,277,MICROBATCH,"{'MgSO4': '1.45 M', 'CaCl2': '20 MM', 'MES': '0.1 M', 'HEPES': 'pH 6.5'}","{
+  ""pH"": 6.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""MgSO4"": ""1.45 M"",
+    ""CaCl2"": ""20 MM"",
+    ""MES"": ""0.1 M"",
+    ""HEPES"": ""pH 6.5""
+  },
+  ""method"": ""MICROBATCH""
+}
+  						  										"
+4UXZ,4UXZ,Structure of delta7-DgkA-syn in 7.9 MAG to 2.18 angstrom resolution,X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,5.6,277.0,"4-6 %(V/V) 2-METHYL-2, 4-PENTANEDIOL (MPD), 0.1 M SODIUM CHLORIDE, 0.06 M MAGNESIUM ACETATE, 0.1 M SODIUM CITRATE/HCL PH 5.6. CRYSTALLIZED USING THE IN MESO (LIPID CUBIC PHASE) METHOD AT 4 DEGREES CELCIUS WITH THE 7.9 MONOACYLGLYCEROL (7.9 MAG) AS THE HOSTING LIPID.",2.93,58.04,5.6,4,IN MESO (LIPID CUBIC PHASE),"{'2-METHYL-2,4-PENTANEDIOL (MPD)': '4-6 %(V/V)', '0.1 M SODIUM CHLORIDE': None, '0.06 M MAGNESIUM ACETATE': None, '0.1 M SODIUM CITRATE/HCL pH 5.6': None}","{
+    ""pH"": 5.6,
+    ""temperature"": 4,
+    ""reagents"": {
+      ""2-METHYL-2,4-PENTANEDIOL (MPD)"": ""4-6 %(V/V)"",
+      ""0.1 M SODIUM CHLORIDE"": null,
+      ""0.06 M MAGNESIUM ACETATE"": null,
+      ""0.1 M SODIUM CITRATE/HCL pH 5.6"": null
+    },
+    ""method"": ""IN MESO (LIPID CUBIC PHASE)""
+}
+		"
+6Z1Q,6Z1Q,MAP3K14 (NIK) in complex with DesF-3R/4076,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,7.6,277.0,"12-20% Ethanol, 0.1M Hepes pH 7.6",2.75,55.21,7.6,0.0,"VAPOR DIFFUSION, HANGING DROP","{'Ethanol': '12-20%', 'HEPES': '0.1M'}","{
+  ""pH"": 7.6,
+  ""temperature"": 0.0,
+  ""reagents"": {
+    ""Ethanol"": ""12-20%"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  			   				   				 "
+6Z1T,6Z1T,MAP3K14 (NIK) in complex with 4S/3694,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,7.6,277.0,"12-20% Ethanol, 0.1M Hepes pH 7.6",2.8,56.03,7.6,0.0,HANGING DROP,"{'Ethanol': '12-20%', 'Hepes': '0.1M'}","{
+    ""pH"": 7.6,
+    ""temperature"": 0.0,
+    ""reagents"": {
+        ""Ethanol"": ""12-20%"",
+        ""Hepes"": ""0.1M""
+    },
+    ""method"": ""HANGING DROP""
+}
+    																"
+6CQF,6CQF,Crystal structure of HPK1 in complex an inhibitor G1858,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.5,292.0,"0.1 M Tris-HCl, pH 8.5, 0.25 M sodium tartrate, 12% PEG8000",2.64,53.43,8.5,293,"VAPOR DIFFUSION, HANGING DROP","{'Tris-HCl': '0.1M', 'sodium tartrate': '0.25M', 'PEG8000': '12%'}","{
+  ""pH"": 8.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Tris-HCl"": ""0.1M"",
+    ""sodium tartrate"": ""0.25M"",
+    ""PEG8000"": ""12%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  						  										"
+2BRI,2BRI,UMP KINASE FROM PYROCOCCUS FURIOSUS COMPLEXED WITH ITS SUBSTRATE ANALOG AMPPNP,X-RAY DIFFRACTION,1.0,,8.0,,"3.5 M SODIUM FORMATE, pH 8.00",2.68,53.83,8,0,,"{'SODIUM FORMATE': '3.5 M', 'H2O': 'deionized'}","{
+  ""pH"": 8,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""SODIUM FORMATE"": ""3.5M"",
+    ""H2O"": ""deionized""
+  },
+  ""method"": """"
+}
+"
+1LPU,1LPU,Low Temperature Crystal Structure of the Apo-form of the catalytic subunit of protein kinase CK2 from Zea mays,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.1,293.0,"PEG3350, Tris/HCl, sodium acetate, pH 8.1, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.39,48.47,8.1,293,"VAPOR DIFFUSION, SITTING DROP","{'Tris/HCl': '100mM', 'sodium acetate': '50 mM', 'PEG3350': '3% (w/v)'}","{
+  ""pH"": 8.1,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Tris/HCl"": ""100mM"",
+    ""sodium acetate"": ""50 mM"",
+    ""PEG3350"": ""3% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+													  					"
+5WNI,5WNI,Crystal structure of murine receptor-interacting protein kinase 4 (Ripk4) D143N in complex with ATP,X-RAY DIFFRACTION,1.0,MICROBATCH,,292.0,"0.1M HEPES pH 7.5, 0.2M magnesium chloride, 10% 2-propanol, 15% ethylene glycol, 10% PEG4000",3.67,66.53,7.5,277,HANGING DROP,"{'HEPES': '0.1M', 'magnesium chloride': '2.0M', '2-propanol': '10%', 'ethylene glycol': '15%', 'PEG4000': '15%'}","{
+  ""pH"": 7.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""magnesium chloride"": ""2.0M"",
+    ""2-propanol"": ""10%"",
+    ""ethylene glycol"": ""15%"",
+    ""PEG4000"": ""15%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  						         			"
+2Y4I,2Y4I,KSR2-MEK1 heterodimer,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.25,293.0,"12% (W/V) PEG 3350, 0.2 M NA CITRATE, 10 MM PR ACETATE, BIS-TRIS PROPANE PH 6.25.",3.44,64.0,6.25,6.25,HANGING DROP,"{'BIS-TRIS PROpane pH 6.25': '12% (W/V)', 'NA CITRATE': '0.2 M', 'PR ACETATE': '10 MM'}","{
+  ""pH"": 6.25,
+  ""temperature"": 6.25,
+  ""reagents"": {
+    ""BIS-TRIS PROpane pH 6.25"": ""12% (W/V)"",
+    ""NA CITRATE"": ""0.2 M"",
+    ""PR ACETATE"": ""10 MM""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+1I58,1I58,STRUCTURE OF THE HISTIDINE KINASE CHEA ATP-BINDING DOMAIN IN COMPLEX WITH ATP ANALOG ADPCP AND MAGNESIUM,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,293.0,"PEG 8000 33-36% Ammonium acetate 0.8 M sodium acetate 0.085 M  pH 4.5. VAPOR DIFFUSION, HANGING DROP at 293 K",,,4.5,293,"VAPOR DIFFUSION, HANGING DROP","{'Ammonium Acetate': '0.8 M', 'Sodium acetate': '0.085 M', 'PEG8000': '33-36% (w/v)'}","{
+  ""pH"": 4.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Ammonium Acetate"": ""0.8 M"",
+    ""Sodium acetate"": ""0.085 M"",
+    ""PEG8000"": ""33-36% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  															  	"
+4WRR,4WRR,A putative diacylglycerol kinase from Bacillus anthracis str. Sterne,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,289.0,"0.2M sodium tartrate, 20% PEG3350 in Drop, 1.15M Sodium Chloride in Well",2.46,49.99,7.4,291,HANGING DROP,"{'sodium tartrate': '0.2M', 'PEG3350': '20%', 'SODIUM CHLORIDE': '1.15M'}","{
+  ""pH"": 7.4,
+  ""temperature"": 291,
+  ""reagents"": {
+    ""sodium tartrate"": ""0.2M"",
+    ""PEG3350"": ""20%"",
+    ""SODIUM CHLORIDE"": ""1.15M""
+  },
+  ""method"": ""HANGING DROP""
+}
+																			"
+6XX8,6XX8,Arabidopsis thaliana Casein Kinase 2 (CK2) alpha-1 crystal form II,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,293.0,0.2M sodium sulfate 0.1M Bis-Tris propane pH 6.5 20% PEG 3350,1.93,36.28,6.5,0,HANGING DROP,"{'sodium sulfate': '0.2M', 'Bis-Tris propane': '0.1M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""sodium sulfate"": ""0.2M"",
+    ""Bis-Tris propane"": ""0.1M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+4BRB,4BRB,"Crystal structure of the integral membrane enzyme DgkA-ref, delta 7",X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,5.6,277.0,"3-5 %(V/V) 2-METHYL-2, 4-PENTANEDIOL (MPD), 0.1 M SODIUM CHLORIDE, 0.06 M MAGNESIUM ACETATE, 0.1 M SODIUM CITRATE/HCL PH 5.6. CRYSTALLIZED USING THE IN MESO (LIPIDIC CUBIC PHASE) METHOD AT 4 DEGREES CELCIUS WITH THE 7.8 MONOACYLGLYCEROL (7.8 MAG) AS THE HOSTING LIPID.",3.89,68.43,5.6,4,IN MESO (LIPIDIC CUBIC PHASE) METHOD,"{'2-METHYL-2,4-PENTANEDIOL (MPD)': '3-5 %V/V', '0.1 M SODIUM CHLORIDE': '', '0.06 M MAGNESIUM ACETATE': '', '0.1 M SODIUM CITRATE/HCL': ''}","{
+    ""pH"": 5.6,
+    ""temperature"":4,
+    ""reagents"": {
+        ""2-METHYL-2,4-PENTANEDIOL (MPD)"": ""3-5 %V/V"",
+        ""0.1 M SODIUM CHLORIDE"": """",
+        ""0.06 M MAGNESIUM ACETATE"": """",
+        ""0.1 M SODIUM CITRATE/HCL"": """"
+    },
+    ""method"": ""IN MESO (LIPIDIC CUBIC PHASE) METHOD""
+}
+ 	"
+4OLC,4OLC,Carbamate kinase from Giardia lamblia thiocarbamoylated by disulfiram on Cys242,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,295.0,"0.4 M ammonium citrate dibasic, 21% PEG3350, crystal soaked in 2 mM disulfiram overnight, pH 5.0, VAPOR DIFFUSION, HANGING DROP, temperature 295K",2.49,50.51,5.0,295,"VAPOR DIFFUSION, HANGING DROP","{'ammonium citrate dibasic': '0.4 M', 'PEG3350': '21% (w/v)'}","{
+  ""pH"": 5.0,
+  ""temperature"": 295,
+  ""reagents"": {
+    ""ammonium citrate dibasic"": ""0.4 M"",
+    ""PEG3350"": ""21% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  												  				"
+1FWK,1FWK,CRYSTAL STRUCTURE OF HOMOSERINE KINASE COMPLEXED WITH ADP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,293.0,"PEG4000, sodium acetate, pH 8.0, VAPOR DIFFUSION, HANGING DROP, temperature 293K",3.29,62.58,8.0,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG4000': None, 'sodium acetate': '10 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG4000"": null,
+    ""sodium acetate"": ""10 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  														   	"
+1J90,1J90,Crystal Structure of Drosophila Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,287.0,"ammonium sulfate, mPEG5000, PEG400, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 287K",2.27,45.75,6.5,287,"VAPOR DIFFUSION, HANGING DROP","{'ammonium sulfate': '1M', 'mPEG5000': '50% (w/v)', 'PEG400': '40% (w/v)'}","{
+  ""pH"": 6.5,
+  ""temperature"": 287,
+  ""reagents"": {
+    ""ammonium sulfate"": ""1M"",
+    ""mPEG5000"": ""50% (w/v)"",
+    ""PEG400"": ""40% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																			"
+6Q8P,6Q8P,"Structure of CLK1 with bound N-methyl-10-nitropyrido[3,4-g]quinazolin-2-amine",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,277.0,"Protein solution: 7-8 mg/ml protein in 30 mM Hepes, pH 7.5, 300 mM NaCl, 50 mM arginine/glutamine mix 1:1, 0.5 mM TCEP, and 1% v/v glycerol.
+Reservoir solution: 29% (v/v) 1,2 propanediol, 0.08 M Na/K phosphate. 
+Crystals were soaked for 72 h in reservoir solution complemented with 1 mM compound and 20% ethylene glycol.",2.55,51.8,7.5,293,HANGING DROP,"{'Protein solution': '7-8 mg/ml protein in 30 mM Hepes, pH 7.5, 300 mM NaCl, 50 mM arginine/glutamine mix 1:1, 0.5 mM TCEP, and 1% v/v glycerol.', 'Reservoir solution': '29% (v/v) 1,2 propanediol, 0.08 M Na/K phosphate.'}","{
+   ""pH"": 7.5,
+   ""temperature"": 293,
+   ""reagents"": {
+    ""Protein solution"": ""7-8 mg/ml protein in 30 mM Hepes, pH 7.5, 300 mM NaCl, 50 mM arginine/glutamine mix 1:1, 0.5 mM TCEP, and 1% v/v glycerol."",
+    ""Reservoir solution"": ""29% (v/v) 1,2 propanediol, 0.08 M Na/K phosphate.""
+  },
+   ""method"": ""HANGING DROP""
+}
+  										  						"
+8CDW,8CDW,CRYSTAL STRUCTURE OF HUMAN HPK1 (MAP4K1) COMPLEX WITH 7-(1-methyl-1H-pyrazol-4-yl)-N-[4-(1-methylpiperidin-4-yl)phenyl]quinazolin-2-amine,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,293.0,"4.0 % (w/v) PEG5000 MME, 0.05 M HEPES, pH=6.50, 0.032 M Na3-Citrate, pH=7.0",2.23,44.73,6.5,0,HANGING DROP,"{'PEG5000 MME': '4.0 % (w/v)', 'HEPES': '0.05 M', 'Na3-Citrate': '0.032 M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""PEG5000 MME"": ""4.0 % (w/v)"",
+    ""HEPES"": ""0.05 M"",
+    ""Na3-Citrate"": ""0.032 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+4G3E,4G3E,Crystal structure of murine NF-kappaB inducing kinase (NIK) bound to a 6-alkynylindoline (cmp1),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.2,277.0,"2uL protein with 2uL well solution of 0.5 M ammonium sulfate, 0.9 M lithium sulfate,0.1M sodium citrate tribasic dihydrate then soaked in well solution with 1 mM cmp1, pH 6.2, VAPOR DIFFUSION, HANGING DROP, temperature 277K",2.98,58.73,6.2,277,"VAPOR DIFFUSION, HANGING DROP","{'ammonium sulfate': '0.5 M', 'lithium sulfate': '0.9 M', 'sodium citrate tribasic dihydrate': '0.1M'}","{
+  ""pH"": 6.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""ammonium sulfate"": ""0.5 M"",
+    ""lithium sulfate"": ""0.9 M"",
+    ""sodium citrate tribasic dihydrate"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+1ZM7,1ZM7,Crystal structure of D. melanogaster deoxyribonucleoside kinase mutant N64D in complex with dTTP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,288.0,"MES, lithium sulphate, mPEG 2000, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 288K",2.7,54.6,6.5,288,"VAPOR DIFFUSION, HANGING DROP","{'MES': '100mM', 'lithium sulfate': '200 mM (w/v)', 'mPEG 2000': '20% (w/v)'}","{
+  ""pH"": 6.5,
+  ""temperature"": 288,
+  ""reagents"": {
+    ""MES"": ""100mM"",
+    ""lithium sulfate"": ""200 mM (w/v)"",
+    ""mPEG 2000"": ""20% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  								    						"
+4DN5,4DN5,Crystal Structure of NF-kB-inducing Kinase (NIK),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.4,293.0,"12.5% polyethylene glycol 3350, 200 mM ammonium sulfate and 0.1 M sodium citrate, pH 5.4, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.66,53.83,5.4,293,"VAPOR DIFFUSION, SITTING DROP","{'polyethylene glycol 3350': '12.5%', 'ammonium sulfate': '200 mM', 'sodium citrate': '0.1 M'}","{
+  ""pH"": 5.4,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""polyethylene glycol 3350"": ""12.5%"",
+    ""ammonium sulfate"": ""200 mM"",
+    ""sodium citrate"": ""0.1 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  				  												"
+1A49,1A49,BIS MG-ATP-K-OXALATE COMPLEX OF PYRUVATE KINASE,X-RAY DIFFRACTION,1.0,,6.0,,pH 6.0,2.74,57.2,6.0,0,HANGING DROP,{},"{
+  ""pH"": 6.0,
+  ""temperature"": 0,
+  ""reagents"": {},
+  ""method"": ""HANGING DROP""
+}
+																				"
+5VO1,5VO1,DLK in complex with compound 10 (5-(1-isopropyl-5-(3-(oxetan-3-yl)-3-azabicyclo[3.1.0]hexan-6-yl)-1H-pyrazol-3-yl)-3-(trifluoromethyl)pyridin-2-amine),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.7,293.0,"20% PEG 3350, 0.2 M Mg Acetate, 0.1 M Hepes pH 7.7",2.0,38.36,7.7,278.15,HANGING DROP,"{'PEG 3350': '20%', 'Mg Acetate': '0.2 M', 'HEPES': '0.1 M'}","{
+  ""pH"": 7.7,
+  ""temperature"": 278.15,
+  ""reagents"": {
+    ""PEG 3350"": ""20%"",
+    ""Mg Acetate"": ""0.2 M"",
+    ""HEPES"": ""0.1 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+1ZTH,1ZTH,Crystal Structure of A.fulgidus Rio1 serine protein kinase bound to ADP and Manganese ion,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,6.5,293.0,"PEG 4000, MES, Ammonium Sulfate, pH 6.5, VAPOR DIFFUSION, temperature 293K",2.33,46.73,6.5,293,VAPOR DIFFUSION,"{'Ammonium sulfate': '0.1M', 'MES': '100mM'}","{
+  ""pH"": 6.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Ammonium sulfate"": ""0.1M"",
+    ""MES"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION""
+}
+  "
+1ZOG,1ZOG,Crystal structure of protein kinase CK2 in complex with TBB-derivatives,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"PEG 4000, Sodium Acetate, TRIS, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.35,47.66,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': None, 'Sodium Acetate': None, 'TRIS': None}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": null,
+    ""Sodium Acetate"": null,
+    ""TRIS"": null
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+								   						   "
+3E0W,3E0W,Crystal structure of pyruvate kinase from Leishmania mexicana,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",4.2,277.0,"20% Saturated ammonium sulphate, 100mM Na citrate, pH 4.2 (soaked in 40% Saturated ammonium sulphate, 100mM NaCl, pH 4.2), VAPOR DIFFUSION, HANGING DROP, temperature 277K",4.45,72.35,4.2,277,"VAPOR DIFFUSION, HANGING DROP",{},"{
+  ""pH"": 4.2,
+  ""temperature"": 277,
+  ""reagents"": {},
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  								 									"
+4JAU,4JAU,"Structural basis of a rationally rewired protein-protein interface (HK853mutant A268V, A271G, T275M, V294T and D297E)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.5,294.0,"8% PEG4000, 0.8M lithium chloride, Tris, pH 8.5, VAPOR DIFFUSION, SITTING DROP, temperature 294K",2.45,49.78,8.5,294,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '8%', 'lithium chloride': '0.8M', 'Tris': '100mM'}","{
+  ""pH"": 8.5,
+  ""temperature"": 294,
+  ""reagents"": {
+    ""PEG 4000"": ""8%"",
+    ""lithium chloride"": ""0.8M"",
+    ""Tris"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  												  				"
+1DAW,1DAW,CRYSTAL STRUCTURE OF A BINARY COMPLEX OF PROTEIN KINASE CK2 (ALPHA-SUBUNIT) AND MG-AMPPNP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,298.0,"PEG 3350, SODIUM ACETATE, TRIS/HCL, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 298K",2.44,49.55,8.0,298,"VAPOR DIFFUSION, SITTING DROP","{'PEG 3350': None, 'SODIUM ACETATE': None, 'TRIS/HCL': None}","{
+  ""pH"": 8.0,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""PEG 3350"": null,
+    ""SODIUM ACETATE"": null,
+    ""TRIS/HCL"": null
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  "
+1F0Q,1F0Q,CRYSTAL STRUCTURE OF THE ALPHA SUBUNIT OF PROTEIN KINASE CK2 IN COMPLEX WITH THE NUCLEOTIDE COMPETITIVE INHIBITOR EMODIN,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,292.0,"PEG 4000, sodium acetate, Tris-HCl, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 292K",2.1,41.4,8.0,292,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '', 'sodium acetate': '0.1M', 'Tris-HCl': '100mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 292,
+  ""reagents"": {
+    ""PEG 4000"": """",
+    ""sodium acetate"": ""0.1M"",
+    ""Tris-HCl"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+ 																			"
+1M2R,1M2R,"Crystal structure of 5,8-di-amino-1,4-di-hydroxy-anthraquinone/CK2 kinase complex",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"PEG 4000, Sodium Acetate, Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.085,41.07,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '10% (w/v)', 'Sodium Acetate': '0.2M', 'Tris': '100 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""10% (w/v)"",
+    ""Sodium Acetate"": ""0.2M"",
+    ""Tris"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  																		"
+1NW1,1NW1,Crystal Structure of Choline Kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,296.0,"PEG 2000, calcium acetate, bicine, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 296K",2.8,55.76,8.0,296,"VAPOR DIFFUSION, SITTING DROP","{'PEG 2000': '100%', 'calcium acetate': '1M', 'bicine': '10 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 296,
+  ""reagents"": {
+    ""PEG 2000"": ""100%"",
+    ""calcium acetate"": ""1M"",
+    ""bicine"": ""10 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  												  				"
+1ZAK,1ZAK,"ADENYLATE KINASE FROM MAIZE IN COMPLEX WITH THE INHIBITOR P1,P5-BIS(ADENOSINE-5'-)PENTAPHOSPHATE (AP5A)",X-RAY DIFFRACTION,1.0,,7.5,,pH 7.5,2.8,56.0,7.5,0,HANGING DROP,{},"{
+  ""pH"": 7.5,
+  ""temperature"": 0,
+  ""reagents"": {},
+  ""method"": ""HANGING DROP""
+}
+  						  										"
+3KXG,3KXG,"Crystal structure of Z. mays CK2 kinase alpha subunit in complex with the inhibitor 3,4,5,6,7-pentabromo-1H-indazole (K64)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"20% PEG 4000, 0.2M Na-acetate, 0.1M Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.46,50.07,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG4000': '20%', 'Na-acetate': '0.2M', 'Tris': '0.1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG4000"": ""20%"",
+    ""Na-acetate"": ""0.2M"",
+    ""Tris"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  												  				"
+3KXH,3KXH,"Crystal structure of Z. mays CK2 kinase alpha subunit in complex with the inhibitor (2-dymethylammino-4,5,6,7-tetrabromobenzoimidazol-1yl-acetic acid (K66)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"20% PEG 4000, 0.2M Na-acetate, 0.1M Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.57,52.07,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG4000': '20%', 'Na-acetate': '0.2M', 'Tris': '0.1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG4000"": ""20%"",
+    ""Na-acetate"": ""0.2M"",
+    ""Tris"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+												  						"
+3KXM,3KXM,Crystal structure of Z. mays CK2 kinase alpha subunit in complex with the inhibitor K74,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"20% PEG 4000, 0.2M Na-acetate, 0.1M Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.49,50.53,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '20%', 'Na-acetate': '0.2M', 'Tris': '0.1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""20%"",
+    ""Na-acetate"": ""0.2M"",
+    ""Tris"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+																				"
+3KXN,3KXN,Crystal structure of Z. mays CK2 kinase alpha subunit in complex with the inhibitor tetraiodobenzimidazole (K88),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"20% PEG 4000, 0.2M Na-acetate, 0.1M Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.54,51.48,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '20%', 'Na-acetate': '0.2M', 'Tris': '0.1M'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""20%"",
+    ""Na-acetate"": ""0.2M"",
+    ""Tris"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  												  				"
+3ULZ,3ULZ,Crystal structure of apo BAK1,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,291.0,"PEG 3350, sodium citrate, ammonium sulfate, HEPES, pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 291K",2.54,51.61,7.5,291,"VAPOR DIFFUSION, HANGING DROP",{},"{
+  ""pH"": 7.5,
+  ""temperature"": 291,
+  ""reagents"": {},
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  															   "
+2CSN,2CSN,BINARY COMPLEX OF CASEIN KINASE-1 WITH CKI7,X-RAY DIFFRACTION,,,,,,3.16,61.13,null,null,null,null,null
+3QV8,3QV8,"Crystal structure of Leishmania mexicana pyruvate kinase(LmPYK)in complex with benzothiazole-2,5-disulfonic acid.",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.2,277.0,"7-16% PEG 8,000, 20 mM TEA buffer (pH 7.2), 50 mM MgCl2, 100 mM KCl and 10-25% glycerol, VAPOR DIFFUSION, HANGING DROP, temperature 277K",3.04,59.59,7.2,277,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '7-16%', 'TEA buffer (pH 7.2)': '20 mM', 'MgCl2': '50 mM', 'KCl': '100 mM', 'glycerol': '10-25%'}","{
+  ""pH"": 7.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 8000"": ""7-16%"",
+    ""TEA buffer (pH 7.2)"": ""20 mM"",
+    ""MgCl2"": ""50 mM"",
+    ""KCl"": ""100 mM"",
+    ""glycerol"": ""10-25%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																				"
+6QTY,6QTY,Non-phosphorylated human CLK1 in complex with an indole inhibitor to 1.65 Ang,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.5,273.0,"24% PEG 3350, 200mM MgCl2, 100mM Bis-Tris (pH 6.5)",2.47,50.11,6.5,293,HANGING DROP,"{'PEG 3350': '24%', 'MgCl2': '200mM', 'Bis-Tris': '100mM (pH 7)'}","{
+  ""pH"": 6.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 3350"": ""24%"",
+    ""MgCl2"": ""200mM"",
+    ""Bis-Tris"": ""100mM (pH 7)""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+3SL2,3SL2,ATP Forms a Stable Complex with the Essential Histidine Kinase WalK (YycG) Domain,X-RAY DIFFRACTION,1.0,,7.5,287.0,"10 mM Tris-HCl, 100 mM NaCl, 5% glycerol, 1.5 mM NaN3, pH 7.5, VAPOR DIFFUSION, temperature 287K",2.1,41.31,7.5,287,VAPOR DIFFUSION,"{'Tris-HCl': '10 mM', 'NaCl': '100 mM', 'glycerol': '5%', 'NaN3': '1.5 mM'}","{
+  ""pH"": 7.5,
+  ""temperature"": 287,
+  ""reagents"": {
+    ""Tris-HCl"": ""10 mM"",
+    ""NaCl"": ""100 mM"",
+    ""glycerol"": ""5%"",
+    ""NaN3"": ""1.5 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION""
+}
+  																		"
+4D28,4D28,Crystal structure of the kinase domain of CIPK24/SOS2,X-RAY DIFFRACTION,1.0,,,,20 MM TRIS PH 7.0 AND 22% PEG 4K.,2.13,42.0,7.0,293,HANGING DROP,"{'TRIS': '100 mM', 'PEG4000': '22%'}","{
+  ""pH"": 7.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""TRIS"": ""100 mM"",
+    ""PEG4000"": ""22%""
+  },
+  ""method"": ""HANGING DROP""
+}
+"
+1EH4,1EH4,"BINARY COMPLEX OF CASEIN KINASE-1 FROM S. POMBE WITH AN ATP COMPETITIVE INHIBITOR, IC261",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",4.2,289.0,"Ammonium Sulfate, Sodium Acetate, MPD , pH 4.2, VAPOR DIFFUSION, HANGING DROP, temperature 289K",2.98,58.79,4.2,289,"VAPOR DIFFUSION, HANGING DROP","{'Ammonium Sulfate': '0.1M', 'Sodium Acetate': '0.05M', 'MPD': '20% (w/v)'}","{
+  ""pH"": 4.2,
+  ""temperature"": 289,
+  ""reagents"": {
+    ""Ammonium Sulfate"": ""0.1M"",
+    ""Sodium Acetate"": ""0.05M"",
+    ""MPD"": ""20% (w/v)""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  													  			"
+5X8I,5X8I,Crystal structure of human CLK1 in complex with compound 25,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",9.0,291.0,"2% (v/v) PEG 200, 20% (v/v) tacsimate (pH 7.0), 0.1M HEPES (pH 9.0)",2.37,48.17,7.4,277,MICROBATCH,"{'HEPES': '0.1M', 'tacsimate': '20% (v/v)'}","{
+  ""pH"": 7.4,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""tacsimate"": ""20% (v/v)""
+  },
+  ""method"": ""MICROBATCH""
+}
+  					   										"
+8PAS,8PAS,Crystal structure of MAP4K1 with a SMOL inhibitor,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,,293.0,NOT DISCLOSED,2.82,56.34,7.4,280,HANGING DROP,"{'Ammonium sulfate': '0.1M', 'HEPES': '0.2M', 'PEG400': '20% (w/v)'}","{
+  ""pH"": 7.4,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""Ammonium sulfate"": ""0.1M"",
+    ""HEPES"": ""0.2M"",
+    ""PEG400"": ""20% (w/v)""
+  },
+  ""method"": ""HANGING DROP""
+}
+																			 "
+8PAU,8PAU,Crystal structure of MAP4K1 with a SMOL inhibitor,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,,293.0,NOT DISCLOSED,2.82,56.36,7.4,278,HANGING DROP,"{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%', 'Tris': '0.1M'}","{
+    ""pH"": 7.4,
+    ""temperature"": 278,
+    ""reagents"": {
+        ""HEPES"": ""0.1M"",
+        ""ammonium sulfate"": ""0.4M"",
+        ""PEG400"": ""20%"",
+        ""Tris"": ""0.1M""
+    },
+    ""method"": ""HANGING DROP""
+}
+																 	"
+6YKY,6YKY,"Biochemical, Cellular and Structural Characterization of Novel ERK3 Inhibitors",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.0,277.0,"100 mM Bis-Tris (pH 6), 100 mM Lithium acetate, 18%v/v Sokalan CP42, 3%vv Glycerol",2.49,50.67,7.4,277,HANGING DROP,"{'Bis-Tris': '100 mM', 'Lithium acetate': '100 mM', 'Sokalan CP42': '18% v/v', 'Glycerol': '3% vv'}","{
+  ""pH"": 7.4,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Bis-Tris"": ""100 mM"",
+    ""Lithium acetate"": ""100 mM"",
+    ""Sokalan CP42"": ""18% v/v"",
+    ""Glycerol"": ""3% vv""
+  },
+  ""method"": ""HANGING DROP""
+}
+  					  											"
+6YLC,6YLC,"Biochemical, Cellular and Structural Characterization of Novel ERK3 Inhibitors",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.0,277.0,"100 mM Bis-Tris (pH 6), 100 mM Lithium acetate, 18%v/v Sokalan CP42, 3%v/v Glycerol",2.49,50.67,7.4,277,"VAPOR DIFFUSION, HANGING DROP","{'Bis-Tris': '0.1 M', 'Lithium acetate': '0.1 M', 'Sokalan CP42': '18% v/v', 'Glycerol': '3% v/v'}","{
+  ""pH"": 7.4,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Bis-Tris"": ""0.1 M"",
+    ""Lithium acetate"": ""0.1 M"",
+    ""Sokalan CP42"": ""18% v/v"",
+    ""Glycerol"": ""3% v/v""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+		"
+7SIU,7SIU,Crystal structure of HPK1 (MAP4K1) complex with inhibitor A-745,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.5,296.0,"20% PEG1000, 100 mM Li2SO4, 100 mM Sodium Citrate, pH 5.5",2.81,56.15,5.5,278.15,"VAPOR DIFFUSION, HANGING DROP","{'PEG1000': '20%', 'Li2SO4': '100 mM', 'Sodium Citrate': '100 mM'}","{
+  ""pH"": 5.5,
+  ""temperature"": 278.15,
+  ""reagents"": {
+    ""PEG1000"": ""20%"",
+    ""Li2SO4"": ""100 mM"",
+    ""Sodium Citrate"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  "
+3E0V,3E0V,Crystal structure of pyruvate kinase from Leishmania mexicana in complex with sulphate ions,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",4.2,277.0,"20% Saturated ammonium sulphate, 100mM Na citrate, pH 4.2, VAPOR DIFFUSION, HANGING DROP, temperature 277K",4.51,72.7,4.2,277,"VAPOR DIFFUSION, HANGING DROP","{'Ammonium sulfate ((NH4)2SO4)': '20% (w/v)', 'sodium citrate': '100mM'}","{
+  ""pH"": 4.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""Ammonium sulfate ((NH4)2SO4)"": ""20% (w/v)"",
+    ""sodium citrate"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+1A5U,1A5U,PYRUVATE KINASE COMPLEX WITH BIS MG-ATP-NA-OXALATE,X-RAY DIFFRACTION,1.0,,6.0,,pH 6.0,2.74,57.2,6.0,180.0,"VAPOR DIFFUSION, HANGING DROP","{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+    ""pH"": 6.0,
+    ""temperature"": 180.0,
+    ""reagents"": {
+        ""HEPES"": ""0.1M"",
+        ""ammonium sulfate"": ""0.4M"",
+        ""PEG400"": ""20%""
+    },
+    ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  						   					   	"
+1AQF,1AQF,"PYRUVATE KINASE FROM RABBIT MUSCLE WITH MG, K, AND L-PHOSPHOLACTATE",X-RAY DIFFRACTION,,,,,,2.99,58.89,null,null,null,null,null
+5K28,5K28,Structure of the unbound SH3 domain of MLK3,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.4,298.0,1.4M NaMalonate pH 6.4,2.67,53.91,6.4,0,HANGING DROP,{'NaMalonate': '1.4M'},"{
+  ""pH"": 6.4,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""NaMalonate"": ""1.4M""
+  },
+  ""method"": ""HANGING DROP""
+}
+																		"
+1OT3,1OT3,Crystal structure of Drosophila deoxyribonucleotide kinase complexed with the substrate deoxythymidine,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,287.0,"ammonium sulfate, MPEG5000, PEG400, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 287K",3.03,59.14,6.5,287,"VAPOR DIFFUSION, HANGING DROP","{'ammonium sulfate': None, 'MPEG5000': None, 'PEG400': None}","{
+  ""pH"": 6.5,
+  ""temperature"": 287,
+  ""reagents"": {
+    ""HEPES"": null,
+    ""ammonium sulfate"": null,
+    ""MPEG5000"": null,
+    ""PEG400"": null
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+2VP6,2VP6,Structural Studies of Nucleoside Analog and Feedback Inhibitor Binding to Drosophila Melanogaster Multisubstrate Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,3.1,52.76,6.5,0,HANGING DROP,{},"{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""HANGING DROP""
+}
+																		"
+2Y7J,2Y7J,"Structure of human phosphorylase kinase, gamma 2",X-RAY DIFFRACTION,1.0,,,,25% PEG 3350; 0.1 M BIS-TRIS 5.5,1.95,36.99,7,280,HANGING DROP,"{'BIS-TRIS': '0.1M', 'PEG 3350': '25%'}","{
+  ""pH"": 7,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""BIS-TRIS"": ""0.1M"",
+    ""PEG 3350"": ""25%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  															   "
+3LMI,3LMI,Crystal Structure of the Inactive Alpha-kinase Domain of Myosin Heavy Chain Kinase A (D766A) complex with ATP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,277.0,"20% PEG 3350, 0.2M potassium phosphate, 0.1M Tris-HCl, pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 277K",2.24,45.11,7.5,277,"VAPOR DIFFUSION, HANGING DROP","{'PEG 3350': '20%', 'potassium phosphate': '0.2M', 'Tris-HCl': '0.1M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 3350"": ""20%"",
+    ""potassium phosphate"": ""0.2M"",
+    ""Tris-HCl"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+              						"
+3ZE3,3ZE3,Crystal structure of the integral membrane diacylglycerol kinase - delta7,X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,5.6,277.0,"3-5 %(V/V) 2-METHYL-2, 4-PENTANEDIOL, 0.1 M SODIUM CHLORIDE, 0.06 M MAGNESIUM ACETATE, 0.1 M SODIUM CITRATE/HCL PH 5.6. CRYSTALLIZED USING THE IN MESO (LIPIDIC CUBIC PHASE) METHOD AT 4 DEGREE CELSIUS WITH THE 7.8 MONOACYLGLYCEROL (7.8 MAG) AS THE HOSTING LIPID.",3.95,68.86,5.6,4,MESO (LIPOIDIC CUBIC PHASE) METHOD,"{'2-METHYL-2,4-PENTANEDIOL': '3-5 %(V/V)', 'SODIUM CHLORIDE': '0.1 M', 'MAGNESIUM ACETATE': '0.06 M', 'SODIUM CITRATE/HCL': '0.1 M'}","{
+}
+  																		"
+8YHW,8YHW,The Crystal Structure of NF-kB-inducing Kinase (NIK) from Biortus,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,293.0,"0.1M MMT pH9.0, 25% PEG1500",2.67,53.94,9.0,298,"VAPOR DIFFUSION, HANGING DROP","{'MMT': '0.1M', 'PEG1500': '25%'}","{
+  ""pH"": 9,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""MMT"": ""0.1M"",
+    ""PEG1500"": ""25%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  												   			"
+7N0E,7N0E,Co-complex of the histidine kinase region of RetS and the dimerization and histidine phosphotransfer domain of GacS,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,295.15,"0.2 M lithium sulfate, 0.1 M tris pH 8.5, 30% PEG 3350",3.02,59.34,8.5,293,HANGING DROP,"{'lithium sulfate': '0.2M', 'tris': '0.1M', 'PEG 3350': '30%'}","{
+  ""pH"": 8.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""lithium sulfate"": ""0.2M"",
+    ""tris"": ""0.1M"",
+    ""PEG 3350"": ""30%""
+  },
+  ""method"": ""HANGING DROP""
+}
+													  					"
+2QG5,2QG5,Cryptosporidium parvum calcium dependent protein kinase cgd7_1840,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,298.0,"2.5M Na formate, 0.2M Bis Tris propane pH7, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.55,51.81,7,298,"VAPOR DIFFUSION, HANGING DROP","{'Bis Tris Propane pH7': '0.2M', 'Na formate': '2.5M'}","{
+  ""pH"": 7,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""Bis Tris Propane pH7"": ""0.2M"",
+    ""Na formate"": ""2.5M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  			  					  	 	  	"
+1I59,1I59,STRUCTURE OF THE HISTIDINE KINASE CHEA ATP-BINDING DOMAIN IN COMPLEX WITH ADPNP AND MAGENSIUM,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,293.0,"PEG 8000 33-36% Ammonium acetate 0.8 M sodium acetate 0.085 M  pH 4.5. VAPOR DIFFUSION, HANGING DROP at 293 K",2.01,38.88,4.5,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '33-36%', 'Ammonium acetate': '0.8 M', 'sodium acetate': '0.085 M'}","{
+    ""pH"": 4.5,
+    ""temperature"": 293,
+    ""reagents"": {
+        ""PEG 8000"": ""33-36%"",
+        ""Ammonium acetate"": ""0.8 M"",
+        ""sodium acetate"": ""0.085 M""
+    },
+    ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+3OZ6,3OZ6,"Crystal structure of MapK from Cryptosporidium Parvum, cgd2_1960",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,293.0,"20% PEG 3350 
+0.1 M MgAcetate 
+4 mM AMPPNP 
+4 mM MGCl2 
+4 mM TCEP, pH 7.5, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.28,46.08,7.5,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 3350': '20%', 'MgAcetate': '0.1 M', 'AMPPNP': '4 mM', 'MGCl2': '4 mM', 'TCEP': '4 mM'}","{
+  ""pH"": 7.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 3350"": ""20%"",
+    ""MgAcetate"": ""0.1 M"",
+    ""AMPPNP"": ""4 mM"",
+    ""MGCl2"": ""4 mM"",
+    ""TCEP"": ""4 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+																	  	"
+4I5S,4I5S,Structure and function of sensor histidine kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.0,298.0,"2.3-2.9M SODIUM FORMATE, 3% PEG 4000, PH 7.6-8.6, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 298K",4.09,69.93,7.6,278.15,"VAPOR DIFFUSION, HANGING DROP","{'SODIUM FORMATE': '2.3-2.9M', 'PEG 4000': '3%'}","{
+  ""pH"": 7.6,
+  ""temperature"": 278.15,
+  ""reagents"": {
+    ""SODIUM FORMATE"": ""2.3-2.9M"",
+    ""PEG 4000"": ""3%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																				"
+8SOA,8SOA,Phosphoinositide phosphate 3 kinase gamma bound with ATP,ELECTRON MICROSCOPY,,,,,,,,null,null,null,null,null
+1RL9,1RL9,Crystal structure of Creatine-ADP arginine kinase ternary complex,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,298.0,"PEG 6000, magnesium chloride, ATP, Creatine, HEPES, pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.23,44.76,7.5,298,"VAPOR DIFFUSION, HANGING DROP","{'PEG 6000': '6% (w/v)', 'MgCl2': '1.5M', 'ATP': '10 mM', 'Creatine': '50 mg/ml', 'HEPES': '0.1 M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""PEG 6000"": ""6% (w/v)"",
+    ""MgCl2"": ""1.5M"",
+    ""ATP"": ""10 mM"",
+    ""Creatine"": ""50 mg/ml"",
+    ""HEPES"": ""0.1 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  "
+5YH0,5YH0,The structure of DrFam20C1,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,290.0,"0.2 M Ammonium citrate tribasic pH 7.0, 0.1 M Imidazole pH 7.0, 18% w/v Polyethylene glycol monomethyl ether 2,000",2.22,44.61,7.0,293,HANGING DROP,"{'HEPES': '0.1M', 'Imidazole': '0.1M'}","{
+    ""pH"": 7.0,
+    ""temperature"": 293,
+    ""reagents"": {
+      ""HEPES"": ""0.1M"",
+      ""Imidazole"": ""0.1M""
+    },
+    ""method"": ""HANGING DROP""
+  }
+																			"
+1JAM,1JAM,Crystal structure of apo-form of Z. Mays CK2 protein kinase alpha subunit,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.5,287.0,"30% PEG 4000, 200 mM sodium acetate, 100 mM Tris-HCl, pH 8.5, VAPOR DIFFUSION, SITTING DROP, temperature 287K",2.34,47.37,8.5,287,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '30%', 'sodium acetate': '200 mM', 'Tris-HCl': '100 mM'}","{
+  ""pH"": 8.5,
+  ""temperature"": 287,
+  ""reagents"": {
+    ""PEG 4000"": ""30%"",
+    ""sodium acetate"": ""200 mM"",
+    ""Tris-HCl"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+											  							"
+2QKR,2QKR,Cryptosporidium parvum cyclin-dependent kinase cgd5_2510 with indirubin 3'-monoxime bound,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,298.0,"8% PEG 20000, 16% Glycerol, 0.1 M MES pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.86,57.05,6.5,298,"VAPOR DIFFUSION, HANGING DROP","{'PEG 20000': '8%', 'Glycerol': '16%', 'MES pH 6.5': '0.1 M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""PEG 20000"": ""8%"",
+    ""Glycerol"": ""16%"",
+    ""MES pH 6.5"": ""0.1 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+5VO2,5VO2,DLK in complex with inhibitor 5-(1-isopropyl-5-(1-(oxetan-3-yl)piperidin-4-yl)-1H-pyrazol-3-yl)-3-(trifluoromethyl)pyridin-2-amine (compound 7),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.7,293.0,"20% PEG 3350, 0.2 M Mg Acetate, 0.1 M Hepes pH 7.7",1.93,36.31,7.7,277,MICROBATCH,"{'PEG 3350': '20%', 'Mg Acetate': '0.2M', 'HEPES': '0.1M'}","{
+  ""pH"": 7.7,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 3350"": ""20%"",
+    ""Mg Acetate"": ""0.2M"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""MICROBATCH""
+}
+  					  						  	 	"
+1Q24,1Q24,PKA double mutant model of PKB in complex with MgATP,X-RAY DIFFRACTION,1.0,,6.4,277.16,"Mes-Bistris, LiCl, DTT, Mega8, PKI, ATP, MgCl, , pH 6.4, VAPOR DIFFUSION, HANGING DROP, temperature 277.16K, pH 6.40",2.59,52.43,6.4,277.16,"Vapor Diffusion, Hanging Drop",null,"{
+  ""pH"": 6.4,
+  ""temperature"": 277.16,
+  ""method"": ""Vapor Diffusion, Hanging Drop""
+}
+																			"
+6CQ7,6CQ7,The SH3 domain of MLK3 in complex with poly-proline peptide derived from Htt,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,298.0,"0.5 M Ammonium Sulphate
+0.1 M Sodium Citrate pH 5.6
+1.1 M Lithium Sulphate",4.35,71.74,5.6,280,HANGING DROP,"{'Ammonium Sulphate': '0.5 M', 'Sodium Citrate': '0.1 M', 'Lithium Sulphate': '1.1 M'}","{
+  ""pH"": 5.6,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""Ammonium Sulphate"": ""0.5 M"",
+    ""Sodium Citrate"": ""0.1 M"",
+    ""Lithium Sulphate"": ""1.1 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+2GNJ,2GNJ,PKA three fold mutant model of Rho-kinase with Y-27632,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,278.0,"LiCl, MesBisTris, EDTA, DTT, Mega8, Methanol, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 278K",2.55,51.83,6.5,278,"VAPOR DIFFUSION, HANGING DROP","{'LiCl': '1M', 'MesBisTris': '0.1M', 'EDTA': '1M', 'DTT': '10 mM', 'Mega8': '0.2M', 'Methanol': '100% (v/v)'}","{
+    ""pH"": 6.5,
+    ""temperature"": 278,
+    ""reagents"": {
+        ""LiCl"": ""1M"",
+        ""MesBisTris"": ""0.1M"",
+        ""EDTA"": ""1M"",
+        ""DTT"": ""10 mM"",
+        ""Mega8"": ""0.2M"",
+        ""Methanol"": ""100% (v/v)""
+    },
+    ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+4GKI,4GKI,"Crystal structure of the aminoglycoside phosphotransferase APH(3')-Ia, with substrate kanamycin and small molecule inhibitor 1-NM-PP1",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",4.5,298.0,"0.1 M SODIUM ACETATE, 8% PEG3350, 3% DMSO, 2 MM KANAMYCIN, 3 mM 1-NM-PP1, pH 4.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.3,46.48,4.5,298,HANGING DROP,"{'0.1 M SODIUM ACETATE': None, '8% PEG3350': None, '3% DMSO': None, '2 MM KANAMYCIN': None, '3 mM 1-NM-PP1': None}","{
+  ""pH"": 4.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""0.1 M SODIUM ACETATE"": null,
+    ""8% PEG3350"": null,
+    ""3% DMSO"": null,
+    ""2 MM KANAMYCIN"": null,
+    ""3 mM 1-NM-PP1"": null
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+1PKY,1PKY,PYRUVATE KINASE FROM E. COLI IN THE T-STATE,X-RAY DIFFRACTION,,,,,,2.84,56.74,null,null,null,null,null
+1SZM,1SZM,DUAL BINDING MODE OF BISINDOLYLMALEIMIDE 2 TO PROTEIN KINASE A (PKA),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.4,278.0,"LiCl, MesBisTris, methanol, MEGA-8, PKI(5-24), pH 6.4, VAPOR DIFFUSION, HANGING DROP, temperature 278K",2.85,56.5,6.4,278,"VAPOR DIFFUSION, HANGING DROP","{'LiCl': '10 mM', 'MesBisTris': '100 mM', 'methanol': '80% (v/v)', 'MEGA-8': '2 mM', 'PKI(5-24)': '10 mM'}","{
+  ""pH"": 6.4,
+  ""temperature"": 278,
+  ""reagents"": {
+    ""LiCl"": ""10 mM"",
+    ""MesBisTris"": ""100 mM"",
+    ""methanol"": ""80% (v/v)"",
+    ""MEGA-8"": ""0.2 mM"",
+    ""PKI(5-24)"": ""10 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  			  													"
+3FHR,3FHR,High resolution crystal structure of mitogen-activated protein kinase-activated protein kinase 3 (MK3)-inhibitor complex,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.0,296.0,"10%-15% PEG 3350, 100mM BisTris propane/citric acid, pH 5.0, VAPOR DIFFUSION, SITTING DROP, temperature 296K",2.38,48.28,5.0,296,"VAPOR DIFFUSION, SITTING DROP","{'PEG 3350': '10%-15%', 'BisTris propane/citric acid': '100mM'}","{
+  ""pH"": 5.0,
+  ""temperature"": 296,
+  ""reagents"": {
+    ""PEG 3350"": ""10%-15%"",
+    ""BisTris propane/citric acid"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+    																"
+3FXW,3FXW,High resolution crystal structure of mitogen-activated protein kinase-activated protein kinase 3/inhibitor 2 complex,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.0,296.0,"10-21% PEG 3350, 0.1M BisTris-propane/citric acid, pH 5.0, VAPOR DIFFUSION, SITTING DROP, temperature 296K",2.44,49.57,5.0,296,"VAPOR DIFFUSION, SITTING DROP","{'PEG 3350': '10-21% (w/v)', 'BisTris-propane/citric acid': '0.1M'}","{
+  ""pH"": 5.0,
+  ""temperature"": 296,
+  ""reagents"": {
+    ""PEG 3350"": ""10-21% (w/v)"",
+    ""BisTris-propane/citric acid"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+"
+7JUR,7JUR,"Crystal Structure of KSR2:MEK1 in complex with AMP-PNP, and allosteric MEK inhibitor Trametinib",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,293.0,"12% PEG-3350, 100 mM MES pH
+6.25, 200 mM Magnesium Acetate",4.73,73.98,6.25,200,MICROBATCH,"{'PEG-3350': '12%', 'MgAcetate': '200 mM', 'MES': '100 mM'}","{
+    ""pH"": 6.25,
+    ""temperature"": 200,
+    ""reagents"": {
+        ""PEG-3350"": ""12%"",
+        ""MgAcetate"": ""200 mM"",
+        ""MES"": ""100 mM""
+    },
+    ""method"": ""MICROBATCH""
+}
+  					  						  	  "
+7JUU,7JUU,"Crystal Structure of KSR2:MEK1 in complex with AMP-PNP, and allosteric MEK inhibitor PD0325901",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,293.0,"PEG 2000, MES, pH 6.5, Magnesium acetate",3.76,67.25,6.5,0,HANGING DROP,"{'PEG 2000': '100% (w/w)', 'MES': '100 mM', 'Magnesium acetate': '50 mM'}","{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""PEG 2000"": ""100% (w/w)"",
+    ""MES"": ""100 mM"",
+    ""Magnesium acetate"": ""50 mM""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+5AJQ,5AJQ,Human LOK (STK10) in complex with Bosutinib,X-RAY DIFFRACTION,1.0,,8.1,,"0.1M TRIS PH 8.1, 0.1M MAGNESIUM CHLORIDE, 30%(W/V) PEG 10000",2.34,47.5,8.1,293,HANGING DROP,"{'TRIS': '0.1M', 'MAGNESIUM CHLORIDE': '30% (w/v)', 'PEG 10000': '30% (w/v)'}","{
+  ""pH"": 8.1,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""TRIS"": ""0.1M"",
+    ""MAGNESIUM CHLORIDE"": ""30% (w/v)"",
+    ""PEG 10000"": ""0.3 g/10 mL""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+5J1V,5J1V,"Crystal structure of human CLK1 in complex with pyrido[3,4-g]quinazoline derivative ZW29 (compound 13)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,277.15,"30% 1,2-propanediol, 10% glycerol and 50 mM Na/K phosphate pH 7.2",2.45,49.86,7.2,277,HANGING DROP,"{'1,2-propanoliol': '30%', 'glycerol': '10%', 'Na/K phosphate': '50 mM'}","{
+  ""pH"": 7.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""1,2-propanoliol"": ""30%"",
+    ""glycerol"": ""10%"",
+    ""Na/K phosphate"": ""50 mM""
+  },
+  ""method"": ""HANGING DROP""
+}
+"
+5J1W,5J1W,"Crystal structure of human CLK1 in complex with pyrido[3,4-g]quinazoline derivative ZW31 (compound 14)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,277.15,"30% 1,2-propanediol, 10% glycerol and 50 mM Na/K phosphate pH 7.2",2.51,51.04,7.2,297,"VAPOR DIFFUSION, HANGING DROP","{'1,2-propanoli': '30%', 'glycerol': '10%', 'Na/K phosphate': '50 mM'}","{
+  ""pH"": 7.2,
+  ""temperature"": 297,
+  ""reagents"": {
+    ""1,2-propanoli"": ""30%"",
+    ""glycerol"": ""10%"",
+    ""Na/K phosphate"": ""50 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+6I5K,6I5K,"Crystal structure of CLK1 in complexed with furo[3,2-b]pyridine compound VN345 (derivative of compound 12h)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,277.0,"24-28% 1,2-propanediol, 5% glycerol, 0.1M sodium/potassium phosphate",2.58,52.4,7,280,HANGING DROP,"{'1,2-propanoli': '24-28%', 'glycerol': '5%', 'sodium/potassium phosphate': '0.1M'}","{
+  ""pH"": 7,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""1,2-propanoli"": ""24-28%"",
+    ""glycerol"": ""5%"",
+    ""sodium/potassium phosphate"": ""0.1M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  			  											  "
+6I5L,6I5L,"Crystal structure of CLK1 in complexed with furo[3,2-b]pyridine compound VN316 (derivative of compound 12h)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,277.0,"24-28% 1,2-propanediol, 5% glycerol, 0.1M sodium/potassium phosphate",2.58,52.26,7,280,"VAPOR DIFFUSION, HANGING DROP","{'1,2-propanol': '24-28%', 'glycerol': '5%', 'sodium/potassium phosphate': '0.1M'}","{
+  ""pH"": 7,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""1,2-propanol"": ""24-28%"",
+    ""glycerol"": ""5%"",
+    ""sodium/potassium phosphate"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+									    						"
+3T54,3T54,Crystal structure of the catalytic domain of human diphosphoinositol pentakisphosphate kinase 2 (PPIP5K2) in complex with ATP and Cadmium,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,277.0,"12% (w/v) PEG 3350, 20 mM MgCl2, 0.1 M HEPES, 1 mM ATP, 2 mM CdCl2, pH 7.0, VAPOR DIFFUSION, HANGING DROP, temperature 277K",2.71,54.55,7.0,277,"VAPOR DIFFUSION, HANGING DROP","{'PEG 3350': '12% (w/v)', 'MgCl2': '20 mM', 'HEPES': '0.1 M', 'ATP': '1 mM', 'CdCl2': '2 mM'}","{
+  ""pH"": 7.0,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 3350"": ""12% (w/v)"",
+    ""MgCl2"": ""20 mM"",
+    ""HEPES"": ""0.1 M"",
+    ""ATP"": ""1 mM"",
+    ""CdCl2"": ""2 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  "
+4YFI,4YFI,TNNI3K complexed with inhibitor 1,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,277.0,"0.3 M NaK tartrate, 0.1M HEPES pH7",2.86,57.04,7,0,HANGING DROP,"{'NaK tartrate': '0.3M', 'HEPES': '0.1M'}","{
+  ""pH"": 7,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""NaK tartrate"": ""0.3M"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  		   													"
+6B5J,6B5J,"TNNI3K complexed with a 4,6-diaminopyrimidine",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,283.0,"15% tascimate, 0.1M Hepes pH 7, 2% PEG3350",3.06,59.84,7,280,HANGING DROP,"{'tascimate': '15%', 'HEPES': '0.1M', 'PEG3350': '2%'}","{
+  ""pH"": 7,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""tascimate"": ""15%"",
+    ""HEPES"": ""0.1M"",
+    ""PEG3350"": ""2%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+7SZR,7SZR,NIK bound to inhibitor G02792917,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,6.2,277.0,"100 mM sodium citrate tribasic dihydrate
+(pH 6.2), 0.5 M ammonium sulfate, 0.9 M
+lithium sulfate",3.33,63.11,6.2,280,HANGING DROP,"{'sodium citrate tribasic dihydrate': '100 mM', 'ammonium sulfate': '0.5 M', 'lithium sulfate': '0.9 M'}","{
+  ""pH"": 6.2,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""sodium citrate tribasic dihydrate"": ""100 mM"",
+    ""ammonium sulfate"": ""0.5 M"",
+    ""lithium sulfate"": ""0.9 M""
+  },
+  ""method"": ""HANGING DROP""
+}
+              						"
+1Y3H,1Y3H,Crystal Structure of Inorganic Polyphosphate/ATP-NAD kinase from Mycobacterium tuberculosis,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.0,293.0,"PEG 4000, Sodium 2-morpholinoethanesulfonic acid, pH 6.0, VAPOR DIFFUSION, HANGING DROP, temperature 293.0K",3.0,62.0,6.0,293.0,"VAPOR DIFFUSION, HANGING DROP","{'PEG 4000': '100% (w/v)', 'Sodium 2-morpholinoethanesulfonic acid': '100 mM'}","{
+  ""pH"": 6.0,
+  ""temperature"": 293.0,
+  ""reagents"": {
+    ""PEG4000"": ""100% (w/v)"",
+    ""Sodium 2-morpholinoethanesulfonic acid"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+2F3T,2F3T,Crystal Structure Of E.coli Guanylate Kinase In Complex With Ganciclovir monophosphate,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,292.0,"13% (w/v) PEG 3350, 80 mM Hepes, 100 mM sodium cacodylate and 20 mM betaine, pH 7.0, VAPOR DIFFUSION, HANGING DROP, temperature 292K",2.79,55.93,7.0,292,"Vapor Diffusion, Hanging Drop",null,"{
+  ""pH"": 7.0,
+  ""temperature"": 292,
+  ""method"": ""Vapor Diffusion, Hanging Drop""
+}
+																			"
+3CGY,3CGY,Crystal Structure of Salmonella Sensor Kinase PhoQ catalytic domain in complex with radicicol,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,298.0,"27.5% PEG 4000, 0.1M MOPS, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.02,38.97,6.5,298,"VAPOR DIFFUSION, HANGING DROP","{'PEG 4000': '27.5%', 'MOPS': '0.1M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""PEG 4000"": ""27.5%"",
+    ""MOPS"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+4BIV,4BIV,Crystal structure of CpxAHDC (trigonal form),X-RAY DIFFRACTION,,,,,,6.04,79.65,null,null,null,null,null
+2ANC,2ANC,Crystal Structure Of Unliganded Form Of Oligomeric E.coli Guanylate Kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,292.0,"16% (w/v) PEG 10000, 0.08M sodium hepes, 0.1M sodium cacodylate, pH 7.0, VAPOR DIFFUSION, HANGING DROP, temperature 292K",2.8,56.3,7.0,292,"VAPOR DIFFUSION, HANGING DROP","{'PEG 10000': '16% (w/v)', 'sodium hepes': '0.08M', 'sodium cacodylate': '0.1M'}","{
+  ""pH"": 7.0,
+  ""temperature"": 292,
+  ""reagents"": {
+    ""PEG 10000"": ""16% (w/v)"",
+    ""sodium hepes"": ""0.08M"",
+    ""sodium cacodylate"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+3CGZ,3CGZ,Crystal Structure of Salmonella Sensor Kinase PhoQ catalytic domain,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.5,298.0,"27.5% PEG 4000, 0.1MOPS, pH 6.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",2.03,39.48,6.5,300,"VAPOR DIFFUSION, HANGING DROP","{'PEG 4000': '27.5%', 'MOPS': '0.1M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 300,
+  ""reagents"": {
+    ""PEG 4000"": ""27.5%"",
+    ""MOPS"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  												   			"
+1I5B,1I5B,STRUCTURE OF CHEA DOMAIN P4 IN COMPLEX WITH ADPNP AND MANGANESE,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",5.0,293.0,"PEG 8000 33-36% Ammonium acetate 0.8 M sodium acetate 0.085 M  pH 4.5. VAPOR DIFFUSION, HANGING DROP at 293 K",2.02,39.01,4.5,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '33-36%', 'Ammonium acetate': '0.8 M', 'Sodium acetate': '0.085 M'}","{
+  ""pH"": 4.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 8000"": ""33-36%"",
+    ""Ammonium acetate"": ""0.8 M"",
+    ""Sodium acetate"": ""0.085 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+													  					"
+3FL5,3FL5,Protein kinase CK2 in complex with the inhibitor Quinalizarin,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,293.0,"20% PEG 4000, 200mM Na-acetate, 100mM Na-HEPES, pH 7.5, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.42,49.18,7.5,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '20%', 'Na-acetate': '200mM', 'Na-HEPES': '100mM'}","{
+  ""pH"": 7.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""20%"",
+    ""Na-acetate"": ""200mM"",
+    ""Na-HEPES"": ""100mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  					  											"
+4R39,4R39,Histidine kinase domain from Erythrobacter litoralis EL346 blue-light activated histidine kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.0,293.0,"8% PEG 8000, 0.2 M sodium chloride, 0.1 M sodium cacodylate , pH 6.0, VAPOR DIFFUSION, HANGING DROP, temperature 293K",3.5,64.86,6.0,293,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '8%', 'sodium chloride': '0.2 M', 'sodium cacodylate': '0.1 M'}","{
+  ""pH"": 6,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG8000"": ""8%"",
+    ""sodium chloride"": ""0.2 M"",
+    ""sodium cacodylate"": ""0.1 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+															    "
+5CEN,5CEN,Crystal structure of DLK (kinase domain),X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.7,292.0,"0.2 M magnesium acetate, 20% PEG 3350, 0.1 M HEPES pH 7.7",1.94,36.51,7.7,278,MICROBATCH,"{'magnesium acetate': '0.2M', 'PEG 3350': '20%', 'HEPES': '0.1M'}","{
+  ""pH"": 7.7,
+  ""temperature"": 278,
+  ""reagents"": {
+    ""magnesium acetate"": ""0.2M"",
+    ""PEG 3350"": ""20%"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""MICROBATCH""
+}
+"
+7Z5J,7Z5J,The molybdenum storage protein loaded with tungstate,ELECTRON MICROSCOPY,,,,,,,,null,null,null,null,null
+2JJ8,2JJ8,Structural Studies of Nucleoside Analog and Feedback Inhibitor Binding to Drosophila Melanogaster Multisubstrate Deoxyribonucleoside Kinase,X-RAY DIFFRACTION,1.0,,6.5,,pH 6.5,3.2,61.25,6.5,0,,{},"{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+								   									"
+1M2P,1M2P,"Crystal structure of 1,8-di-hydroxy-4-nitro-anthraquinone/CK2 kinase complex",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"PEG 4000, Sodium Acetate, Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.406,48.93,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '100% (w/w)', 'Sodium Acetate': '200 mM', 'Tris': '100 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""100% (w/w)"",
+    ""Sodium Acetate"": ""200 mM"",
+    ""Tris"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+  																		"
+1M2Q,1M2Q,"Crystal structure of 1,8-di-hydroxy-4-nitro-xanten-9-one/CK2 kinase complex",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"PEG 4000, Sodium Acetate, Tris, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.082,40.96,8.0,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '100% (w/w)', 'Sodium Acetate': '0.1M', 'Tris': '50 mM'}","{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""100% (w/w)"",
+    ""Sodium Acetate"": ""0.1M"",
+    ""Tris"": ""50 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+"
+7LTQ,7LTQ,Crystal Structure of a histidine kinase from Burkholderia ambifaria MC40-6,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",6.5,287.0,"Hampton Research Crystal Screen HT condition G1: 1.8M ammonium sulfate, 100mM MES monhydrate pH 6.5, 10mM Cobalt (II) chloride: BuamA.00863.e.A1.PS01103 at 28.3mg/ml: tray 223322 g1: cryo: likely 25% EG: puck aog4-2.",2.28,46.1,6.5,298,HANGING DROP,"{'ammonium sulfate': '1.8M', 'MES monohydrate': '100mM', 'Cobalt (II) chloride': '10mM'}","{
+    ""pH"": 6.5,
+    ""temperature"": 298,
+    ""reagents"": {
+        ""ammonium sulfate"": ""1.8M"",
+        ""MES monohydrate"": ""100mM"",
+        ""Cobalt (II) chloride"": ""10mM""
+    },
+    ""method"": ""HANGING DROP""
+}
+  																		"
+1OM1,1OM1,Crystal structure of maize CK2 alpha in complex with IQA,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.5,293.0,"PEG 4000, SODIUM ACETATE, TRIS, pH 8.5, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.36,47.85,8.5,293,"VAPOR DIFFUSION, SITTING DROP","{'PEG 4000': '100% (w/v)', 'SODIUM ACETATE': '50 mM', 'TRIS': '50 mM'}","{
+  ""pH"": 8.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG 4000"": ""100% (w/v)"",
+    ""SODIUM ACETATE"": ""50 mM"",
+    ""TRIS"": ""50 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+																  		"
+2OXD,2OXD,"Protein kinase CK2 in complex with tetrabromobenzoimidazole K17, K22 and K32 inhibitors",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"10-20% PEG 4000, 0.2 M sodium acetate, 0.1 M TrisHCl, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293.0K",2.45,49.82,8.0,293.0,Vapor Diffusion Sitting Drop,null,"{
+  ""pH"": 8.0,
+  ""temperature"": 293.0,
+  ""method"": ""Vapor Diffusion Sitting Drop""
+}
+  "
+2YN8,2YN8,ephB4 kinase domain inhibitor complex,X-RAY DIFFRACTION,1.0,,7.0,,pH 7,2.72,54.79,7,0,HANGING DROP,{},"{
+  ""pH"": 7,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""MICROBATCH""
+}
+																		"
+3QV7,3QV7,Crystal structure of Leishmania mexicana pyruvate kinase(LmPYK)in complex with ponceau S and acid blue 25.,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.2,277.0,"7-16% PEG 8,000, 20 mM TEA buffer (pH 7.2), 50 mM MgCl2, 100 mM KCl and 10-25% glycerol, VAPOR DIFFUSION, HANGING DROP, temperature 277K",3.82,67.84,7.2,277,"VAPOR DIFFUSION, HANGING DROP","{'PEG 8000': '7-16%', 'TEA buffer (pH 7.2)': '20 mM', 'MgCl2': '50 mM', 'KCl': '100 mM', 'glycerol': '10-25%'}","{
+  ""pH"": 7.2,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 8000"": ""7-16%"",
+    ""TEA buffer (pH 7.2)"": ""20 mM"",
+    ""MgCl2"": ""50 mM"",
+    ""KCl"": ""100 mM"",
+    ""glycerol"": ""10-25%""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+"
+4BIZ,4BIZ,Crystal structure of CpxAHDC (orthorhombic form 2),X-RAY DIFFRACTION,,,,,,3.01,59.2,null,null,null,null,null
+6V0M,6V0M,Sterile alpha-motif from apoptosis signal-regulating kinase 3,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.0,290.0,"0.1 M sodium citrate tribasic dihydrate pH 5, 25 % (w/v) PEG3350",2.39,48.54,5,0,HANGING DROP,"{'sodium citrate tribasic dihydrate': '10 mM', 'PEG 3350': '25% (w/v)'}","{
+  ""pH"": 5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""sodium citrate tribasic dihydrate"": ""10 mM"",
+    ""PEG 3350"": ""25% (w/v)""
+  },
+  ""method"": ""HANGING DROP""
+}
+  						    						"
+6FT9,6FT9,Crystal structure of CLK1 in complex with inhibitor 16,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.5,277.15,"20% 1,2-propanediol, 10% glycerol, 0.1 M sodium/potassium phosphate",2.49,50.63,7,280,HANGING DROP,"{'HEPES': '0.1M', 'ammonium sulfate': '0.4M', 'PEG400': '20%'}","{
+  ""pH"": 7,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""HANGING DROP""
+}
+"
+6Z4Z,6Z4Z,Crystal structure of CLK1 in complex with macrocycle ODS2004070,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,277.15,"17.5% isopropanol, 5% glycerol, 0.1M sodium/potassium phosphate",2.5,50.72,7,277.15,"VAPOR DIFFUSION, HANGING DROP","{'isopropanol': '17.5%', 'glycerol': '5%', 'sodium/potassium phosphate': '0.1M'}","{
+  ""pH"": 7,
+  ""temperature"": 277.15,
+  ""reagents"": {
+    ""isopropanol"": ""17.5%"",
+    ""glycerol"": ""5%"",
+    ""sodium/potassium phosphate"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+1Q3T,1Q3T,Solution structure and function of an essential CMP kinase of Streptococcus pneumoniae,SOLUTION NMR,,,,,,,,null,null,null,null,null
+7JUS,7JUS,"Crystal Structure of KSR2:MEK1 in complex with AMP-PNP, and allosteric MEK inhibitor Cobimetinib",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,293.0,"PEG 2000, MES, pH 6.5, Magnesium acetate",3.76,67.25,6.5,0,HANGING DROP,"{'PEG 2000': '10% (w/v)', 'MES': '100 mM', 'Magnesium acetate': '1M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  					  						  			"
+4AB7,4AB7,Crystal structure of a tetrameric acetylglutamate kinase from Saccharomyces cerevisiae complexed with its substrate N- acetylglutamate,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,277.0,"PROTEIN WAS SUBJECTED TO REDUCTIVE METHYLATION OF SURFACE EXPOSED LYSINES WITH ABC PREVIOUS TO CRYSTALLIZATION. 10 MG/ML PROTEIN IN 20MM HEPES PH7.5, 0.5 M NACL, 1MM MSH, AND SUPPLEMENTED WITH 40 MM NAG, WAS CRYSTALLIZED IN PRESENCE OF 0.2 M AMMONIUM CITRATE PH 7.0, 12 % PEG3350 AND 1.5 % PEG 6000 AS CRYSTALLIZATION SOLUTION, IN SITTING DROPS AT 4C. CRYOBUFFER SOLUTION WAS THAT OF CRYSTALLIZATION WITH PEG3350 ENRICHED TO 40%",2.4,49.0,7.0,293,HANGING DROP,"{'HEPES': '20 mM', 'NaCl': '0.5 M', 'MSH': '1 mM', 'NAG': '40 mM', 'Ammonium citrate': '0.2 M', 'PEG3350': '12%', 'PEG6000': '1.5%'}","{
+    ""pH"": 7.0,
+    ""temperature"": 293,
+    ""reagents"": {
+      ""HEPES"": ""20 mM"",
+      ""NaCl"": ""0.5 M"",
+      ""MSH"": ""1 mM"",
+      ""NAG"": ""40 mM"",
+      ""Ammonium citrate"": ""0.2 M"",
+      ""PEG3350"": ""12%"",
+      ""PEG6000"": ""1.5%""
+    },
+    ""method"": ""HANGING DROP""
+}
+  																		"
+6EMH,6EMH,Crystal structure of JNK3 in complex with a pyridinylimidazole inhibitor,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",,293.0,"100 mM Bis-Tris pH5.5, 200 mM NaCl, 29% PEG 3350, 1mM AMP-PCP, 0.4 mM Zwittergent 3-14, 10% Ethylene glycol",2.36,47.91,5.5,293,HANGING DROP,"{'Bis-Tris': '100 mM', 'NaCl': '200 mM', 'PEG 3350': '29%', 'AMP-PCP': '1 mM', 'Zwittergent 3-14': '0.4 mM', 'Ethylene glycol': '10%'}","{
+  ""pH"": 5.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Bis-Tris"": ""100 mM"",
+    ""NaCl"": ""200 mM"",
+    ""PEG 3350"": ""29%"",
+    ""AMP-PCP"": ""1 mM"",
+    ""Zwittergent 3-14"": ""0.4 mM"",
+    ""Ethylene glycol"": ""10%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+2JAM,2JAM,Crystal structure of human calmodulin-dependent protein kinase I G,X-RAY DIFFRACTION,1.0,,,,"0.20M NA(MALONATE), 0.1M BTPROP PH 7.5, 20.0% PEG 3350, 10.0% ETGLY",2.25,45.0,7.5,298,HANGING DROP,"{'BTPROP': '100mM', 'ETGLY': '10.0%', 'PEG 3350': '20.0%', 'NA(MALONATE)': '0.20M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""BTPROP"": ""100mM"",
+    ""ETGLY"": ""10.0%"",
+    ""PEG 3350"": ""20.0%"",
+    ""NA(MALONATE)"": ""0.20M""
+  },
+  ""method"": ""HANGING DROP""
+}
+																			"
+5D56,5D56,"In meso in situ serial X-ray crystallography structure of diacylglycerol kinase, DgkA, at 100 K",X-RAY DIFFRACTION,1.0,LIPIDIC CUBIC PHASE,,277.0,"3-6 %(v/v) MPD, 0.1 M NaCl, 60 mM Mg(CH3COO)2 and 50 mM Na3C6H5O7, pH 5.6",2.92,57.88,5.6,0.0,HANGING DROP,"{'MPD': '3-6 %(v/v)', 'NaCl': '0.1 M', 'Mg(CH3COO)2': '60 mM', 'Na3C6H5O7': '50 mM'}","{
+  ""pH"": 5.6,
+  ""temperature"": 0.0,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""MICROBATCH""
+}
+  				  									  	"
+1LP4,1LP4,Crystal structure of a binary complex of the catalytic subunit of protein kinase CK2 with Mg-AMPPNP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.1,293.0,"PEG3350, SODIUM ACETATE, TRIS/HCL, pH 8.1, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.42,49.27,8.1,293,HANGING DROP,"{'PEG3350': '100% (w/v)', 'SODIUM ACETATE': '100 mM', 'TRIS/HCL': '50 mM'}","{
+  ""pH"": 8.1,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""PEG3350"": ""100% (w/v)"",
+    ""SODIUM ACETATE"": ""100 mM"",
+    ""TRIS/HCL"": ""50 mM""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+1LR4,1LR4,Room Temperature Crystal Structure of the Apo-form of the catalytic subunit of protein kinase CK2 from Zea mays,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",8.0,293.0,"PEG4000, sodium acetate, Tris/HCl, pH 8.0, VAPOR DIFFUSION, SITTING DROP, temperature 293K",2.46,50.09,8.0,293,"VAPOR DIFFUSION, HANGING DROP",{},"{
+  ""pH"": 8.0,
+  ""temperature"": 293,
+  ""reagents"": {},
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+1V6S,1V6S,Crystal Structure of Phosphoglycerate Kinase from Thermus thermophilus HB8,X-RAY DIFFRACTION,1.0,MICROBATCH,5.3,291.0,"sodium formate, acetate, pH 5.3, microbatch, temperature 291K",2.7,54.05,5.3,291,MICROBATCH,{},"{
+  ""pH"": 5.3,
+  ""temperature"": 291,
+  ""reagents"": {
+    ""sodium formate"": ""0.1M"",
+    ""acetate"": ""0.05M""
+  },
+  ""method"": ""MICROBATCH""
+}
+								   									"
+2WE5,2WE5,Carbamate kinase from Enterococcus faecalis bound to MgADP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,277.0,"CRYSTALS WERE OBTAINED AT 4 DEGREES USING THE HANGING DROP VAPOUR DIFFUSION METHOD BY MIXING 1.5 MIRCROLITERS OF A 10 MG/ML PROTEIN SOLUTION IN 5 MM SODIUM CACODYLATE PH 6.5, 2 MM ADP, 5 MM MGCL2 AND 50 MM SODIUM PHOPHONOACETATE, AND 1.5 MICROLITERS OF THE RESERVOIR BUFFER CONTAINING 13-16% PEG 8000, 130-160 MM MAGNESIUM ACETATE AND 0.1 M SODIUM CACODYLATE PH 6.5",2.25,45.0,6.5,277,HANGING DROP,"{'10 mg/ml protein solution': '10 mg/ml', '5 mM sodium cacodylate': '5 mM', '2 mM ADP': '2 mM', '5 mM MgCl2': '5 mM', '50 mM sodium phophonoacetate': '50 mM', '13-16% PEG 8000': '13-16%', '130-160 mM magnesium acetate': '130-160 mM', '0.1 M sodium cacodylate': '0.1 M'}","{
+    ""pH"": 6.5,
+    ""temperature"": 277,
+    ""reagents"": {
+        ""10 mg/ml protein solution"": ""10 mg/ml"",
+        ""5 mM sodium cacodylate"": ""5 mM"",
+        ""2 mM ADP"": ""2 mM"",
+        ""5 mM MgCl2"": ""5 mM"",
+        ""50 mM sodium phophonoacetate"": ""50 mM"",
+        ""13-16% PEG 8000"": ""13-16%"",
+        ""130-160 mM magnesium acetate"": ""130-160 mM"",
+        ""0.1 M sodium cacodylate"": ""0.1 M""
+    },
+    ""method"": ""HANGING DROP""
+}
+  																		"
+2C47,2C47,Structure of casein kinase 1 gamma 2,X-RAY DIFFRACTION,1.0,,6.5,,"0.1 M NACACOD PH=6.5 20% PEG10K 0.2 M MGCL2, pH 6.50",3.0,59.0,6.5,6.5,HANGING DROP,"{'NACACOD': '0.1M', 'PEG10K': '20%', 'MgCl2': '0.2M'}","{
+  ""pH"": 6.5,
+  ""temperature"": 6.5,
+  ""reagents"": {
+    ""NACACOD"": ""0.1M"",
+    ""PEG10K"": ""20%"",
+    ""MgCl2"": ""0.2M""
+  },
+  ""method"": ""HANGING DROP""
+}
+  																		"
+6SWJ,6SWJ,"The kinase domain of GanS, a histidine kinase from Geobacillus stearothermophilus (with Pt)",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,298.0,"30% PEG 3350, 1.05 M KSCN, 0.1 M Bis-Tris propane pH 6.3",2.44,49.68,6.3,278,MICROBATCH,"{'PEG 3350': '30%', 'KSCN': '1.05 M', 'Bis-Tris propane': '0.1 M'}","{
+  ""pH"": 6.3,
+  ""temperature"": 278,
+  ""reagents"": {
+    ""PEG 3350"": ""30%"",
+    ""KSCN"": ""1.05 M"",
+    ""Bis-Tris propane"": ""0.1 M""
+  },
+  ""method"": ""MICROBATCH""
+}
+  				  										  "
+6SWK,6SWK,"The kinase domain of GanS, a histidine kinase from Geobacillus stearothermophilus",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,298.0,"30% PEG 3350, 1.05 M KSCN, 0.1 M Bis-Tris propane pH 6.3",2.48,50.38,6.3,280.15,MICROBATCH,"{'PEG 3350': '30% (w/w)', 'KSCN': '1.05 M', 'Bis-Tris propane pH 6.3': '0.1 M'}","{
+  ""pH"": 6.3,
+  ""temperature"": 280.15,
+  ""reagents"": {
+    ""PEG 3350"": ""30% (w/w)"",
+    ""KSCN"": ""1.05 M"",
+    ""Bis-Tris propane pH 6.3"": ""0.1 M""
+  },
+  ""method"": ""MICROBATCH""
+}
+"
+2BMU,2BMU,UMP KINASE FROM PYROCOCCUS FURIOSUS COMPLEXED WITH ITS SUBSTRATE UMP AND ITS SUBSTRATE ANALOG AMPPNP,X-RAY DIFFRACTION,1.0,,8.0,,"3.5 M SODIUM FORMATE, pH 8.00",2.42,48.85,8.0,293.15,"VAPOR DIFFUSION, HANGING DROP",{'sodium formate': '3.5 M'},"{
+  ""pH"": 8.0,
+  ""temperature"": 293.15,
+  ""reagents"": {
+    ""sodium formate"": ""3.5 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+		"
+3EHG,3EHG,Crystal structure of the ATP-binding domain of DesK in complex with ATP,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",9.0,293.0,"pH 9, vapor diffusion, hanging drop, temperature 293K",2.78,55.81,9,293,"Vapor Diffusion, Hanging Drop",null,"{
+  ""pH"": 9,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""HEPES"": ""0.1M"",
+    ""ammonium sulfate"": ""0.4M"",
+    ""PEG400"": ""20%""
+  },
+  ""method"": ""Vapor Diffusion, Hanging Drop""
+}
+  					  											"
+3IS5,3IS5,"Crystal structure of CDPK kinase domain from toxoplasma Gondii, TGME49_018720",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",9.5,293.0,"0.1 M Glycine pH 9.5, 13.6% PEG8000, 0.2 M MgCl2, VAPOR DIFFUSION, HANGING DROP, temperature 293K",2.94,58.19,9.5,293,"VAPOR DIFFUSION, HANGING DROP","{'Glycine': '0.1M', 'PEG8000': '13.6%', 'MgCl2': '0.2M'}","{
+	""pH"": 9.5,
+	""temperature"": 293,
+	""reagents"": {
+		""Glycine"": ""0.1M"",
+		""PEG8000"": ""13.6%"",
+		""MgCl2"": ""0.2M""
+	},
+	""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+																		"
+7AK3,7AK3,CLK1 bound with CAF052,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",9.3,278.0,"23% PEG 6000, 0.1 M bicine",2.53,51.3,7.5,280,"VAPOR DIFFUSION, HANGING DROP","{'PEG 6000': '23%', 'bicine': '0.1M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 280,
+  ""reagents"": {
+    ""PEG 6000"": ""23%"",
+    ""bicine"": ""0.1M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+3ZZI,3ZZI,Crystal structure of a tetrameric acetylglutamate kinase from Saccharomyces cerevisiae,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",7.0,277.0,"PROTEIN WAS SUBJECTED TO REDUCTIVE METHYLATION OF SURFACE EXPOSED LYSINES WITH ABC PREVIOUS TO CRYSTALLIZATION. 10 MG/ML PROTEIN IN 20MM HEPES PH 7.5, 0.5 M NACL, 1MM MSH, AND SUPPLEMENTED WITH 40 MM NAG, WAS CRYSTALLIZED IN PRESENCE OF 0.2 M AMMONIUM CITRATE PH 7.0 AND 12 % PEG3350 AS CRYSTALLIZATION SOLUTION, IN SITTING DROPS AT 4C. CRYOBUFFER SOLUTION WAS THAT OF CRYSTALLIZATION WITH PEG3350 ENRICHED TO 40 %.",2.64,54.0,7.5,4,HANGING DROP,"{'HEPES': '20MM', 'sodium chloride': '0.5M', 'MSH': '1MM', 'NAG': '40MM', 'ammonium citrate': '0.2M', 'PEG3350': '12% (w/v)'}","{
+}
+           									"
+3OZA,3OZA,Crystal Structure of Plasmodium falciparum 3-Phosphoglycerate Kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.5,298.0,"AMMONIUM SULFATE, HEPES, pH 7.5, VAPOR DIFFUSION, HANGING DROP, temperature 298K",3.22,61.79,7.5,298,"VAPOR DIFFUSION, HANGING DROP","{'AMMONIUM SULFATE': '0.1 M', 'HEPES': '0.05 M'}","{
+  ""pH"": 7.5,
+  ""temperature"": 298,
+  ""reagents"": {
+    ""AMMONIUM SULFATE"": ""0.1 M"",
+    ""HEPES"": ""0.05 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  																		"
+4YFF,4YFF,TNNI3K complexed with inhibitor 2,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",7.0,277.0,"8% PEG3350, 0.1M ammonium sulfate, and 0.1M Hepes pH 7.0",3.02,59.27,7.0,277,MICROBATCH,"{'PEG 3350': '8%', 'ammonium sulfate': '0.1M', 'HEPES': '0.1M'}","{
+  ""pH"": 7.0,
+  ""temperature"": 277,
+  ""reagents"": {
+    ""PEG 3350"": ""8%"",
+    ""ammonium sulfate"": ""0.1M"",
+    ""HEPES"": ""0.1M""
+  },
+  ""method"": ""MICROBATCH""
+}
+  "
+9BIK,9BIK,Crystal structure of inhibitor 1 bound to HPK1,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",8.5,292.0,"0.1 M Tris-HCl, pH 8.5, 0.25 M sodium tartrate and 12% PEG 8000",2.33,47.22,8.5,293,HANGING DROP,"{'Tris-HCl': '0.1M', 'sodium tartrate': '0.25M', 'PEG 8000': '12%'}","{
+  ""pH"": 8.5,
+  ""temperature"": 293,
+  ""reagents"": {
+    ""Tris-HCl"": ""0.1M"",
+    ""sodium tartrate"": ""0.25M"",
+    ""PEG 8000"": ""12%""
+  },
+  ""method"": ""HANGING DROP""
+}
+  "
+7JUT,7JUT,"Crystal Structure of KSR2:MEK1 in complex with ANP-PNP, and allosteric MEK inhibitor Selumetinib",X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",,293.0,"PEG 2000, MES, pH 6.5, Magnesium acetate",3.65,66.29,6.5,0,"VAPOR DIFFUSION, HANGING DROP","{'PEG 2000': '10% (w/v)', 'MES': '100 mM', 'Magnesium acetate': '100 mM'}","{
+  ""pH"": 6.5,
+  ""temperature"": 0,
+  ""reagents"": {
+    ""PEG 2000"": ""10% (w/v)"",
+    ""MES"": ""100 mM"",
+    ""Magnesium acetate"": ""100 mM""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+  												   			"
+2QC6,2QC6,Protein kinase CK2 in complex with DBC,X-RAY DIFFRACTION,1.0,VAPOR DIFFUSION,8.0,293.0,"10-20% PEG4000, 0.2 M Sodium Acetate, 0.1 M Tris, pH 8, VAPOR DIFFUSION, temperature 293.0K",2.37,48.2,8,293.0,VAPOR DIFFUSION,null,"{
+  ""pH"": 8,
+  ""temperature"": 293.0,
+  ""method"": ""VAPOR DIFFUSION""
+}
+																		"
+3U6U,3U6U,Crystal structure of the putative acetylglutamate kinase from thermus thermophilus,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, SITTING DROP",5.6,293.0,"0.5M AMMONIUM SULFATE, 0.1M TRI SODIUM CITRATE DEHYDRATE, 1.0M LITHIUM SULFATE MONOHYDRATE, pH 5.6, VAPOR DIFFUSION, SITTING DROP, temperature 293K",4.78,74.25,5.6,293,"VAPOR DIFFUSION, SITTING DROP","{'AMMONIUM SULFATE': '0.5M', 'TRI SODIUM CITRATE DEHYDRATE': '0.1M', 'LITHIUM SULFATE MONOHYDRATE': '1.0M'}","{
+	""pH"": 5.6,
+	""temperature"": 293,
+	""reagents"": {
+		""AMMONIUM SULFATE"": ""0.5M"",
+		""TRI SODIUM CITRATE DEHYDRATE"": ""0.1M"",
+		""LITHIUM SULFATE MONOHYDRATE"": ""1.0M""
+	},
+	""method"": ""VAPOR DIFFUSION, SITTING DROP""
+}
+																  	 "
+5ZHQ,5ZHQ,Crystal structure of Scylla paramamosain arginine kinase,X-RAY DIFFRACTION,1.0,"VAPOR DIFFUSION, HANGING DROP",6.0,291.0,"2.5 M Ammonium Sulfate, 0.1 M MES pH 6.0",4.89,74.87,6.0,278.15,"VAPOR DIFFUSION, HANGING DROP","{'Ammonium sulfate ((NH4)2SO4)': '2.5 M', 'MES pH 6.0': '0.1 M'}","{
+  ""pH"": 6.0,
+  ""temperature"": 278.15,
+  ""reagents"": {
+    ""Ammonium sulfate ((NH4)2SO4)"": ""2.5 M"",
+    ""MES pH 6.0"": ""0.1 M""
+  },
+  ""method"": ""VAPOR DIFFUSION, HANGING DROP""
+}
+                  		"
